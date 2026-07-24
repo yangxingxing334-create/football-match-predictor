@@ -126,7 +126,7 @@ Y = data['FTR']
 X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2)
 
 svc_classifier = SVC(random_state=100, kernel='rbf')
-lr_classifier = OneVsRestClassifier(LogisticRegression(max_iter=500))
+lr_classifier = OneVsRestClassifier(LogisticRegression(max_iter=2000))
 nbClassifier = GaussianNB()
 dtClassifier = DecisionTreeClassifier()
 rfClassifier = RandomForestClassifier()
