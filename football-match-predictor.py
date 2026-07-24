@@ -78,8 +78,13 @@ def derive_clean_sheet(src):
 required_dataset_columns = {
     'HomeTeam', 'AwayTeam', 'HTHG', 'HTAG', 'HS', 'AS', 'HST', 'AST', 'HR', 'AR', 'FTR'
 }
-# Expected layout: data/[league-folder]/data/season-*_csv.csv
-data_files = sorted(Path('data').glob('*/data/season-*_csv.csv'))
+data_root = Path('data')
+data_files = sorted(
+    season_file
+    for league_dir in data_root.iterdir()
+    if league_dir.is_dir() and (league_dir / 'data').is_dir()
+    for season_file in (league_dir / 'data').glob('season-*_csv.csv')
+)
 
 data_frames = []
 
