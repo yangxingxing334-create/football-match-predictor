@@ -75,13 +75,18 @@ def derive_clean_sheet(src):
 
 # Data gathering
 
+required_dataset_columns = {
+    'HomeTeam', 'AwayTeam', 'HTHG', 'HTAG', 'HS', 'AS', 'HST', 'AST', 'HR', 'AR', 'FTR'
+}
 data_files = sorted(Path('data').glob('*/data/season-*_csv.csv'))
 
 data_frames = []
 
 for data_file in data_files:
     if path.exists(data_file):
-        data_frames.append(pd.read_csv(data_file))
+        data_frame = pd.read_csv(data_file)
+        if required_dataset_columns.issubset(data_frame.columns):
+            data_frames.append(data_frame)
 
 data = pd.concat(data_frames).reset_index()
 print(data)
