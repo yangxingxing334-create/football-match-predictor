@@ -2,6 +2,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.naive_bayes import GaussianNB
 from sklearn.linear_model import LogisticRegression
+from sklearn.multiclass import OneVsRestClassifier
 from sklearn.svm import SVC
 import pandas as pd
 import numpy as np
@@ -125,7 +126,7 @@ Y = data['FTR']
 X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2)
 
 svc_classifier = SVC(random_state=100, kernel='rbf')
-lr_classifier = LogisticRegression(multi_class='ovr', max_iter=500)
+lr_classifier = OneVsRestClassifier(LogisticRegression(max_iter=500))
 nbClassifier = GaussianNB()
 dtClassifier = DecisionTreeClassifier()
 rfClassifier = RandomForestClassifier()
