@@ -1,0 +1,241 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HR,AR
+SE1,02/04/2022,Hammarby,Helsingborg,2,1,H,1,0,H,20,7,7,4,0,0
+SE1,02/04/2022,Häcken,AIK,4,2,H,2,1,H,23,17,9,7,0,0
+SE1,03/04/2022,IFK Göteborg,Värnamo,2,1,H,1,0,H,8,10,6,4,0,0
+SE1,03/04/2022,Sirius,GIF Sundsvall,2,1,H,0,1,A,15,10,6,3,0,0
+SE1,03/04/2022,Norrköping,Varberg,0,1,A,0,0,D,15,9,5,2,0,0
+SE1,03/04/2022,Kalmar,Malmö FF,0,1,A,0,0,D,9,16,3,5,0,0
+SE1,04/04/2022,Djurgården,Degerfors,3,1,H,1,0,H,19,17,8,7,0,0
+SE1,04/04/2022,Elfsborg,Mjällby,0,2,A,0,0,D,15,7,5,4,0,0
+SE1,09/04/2022,GIF Sundsvall,Hammarby,1,5,A,1,4,A,9,16,4,9,0,0
+SE1,09/04/2022,Degerfors,Häcken,1,2,A,0,1,A,6,25,2,13,0,0
+SE1,10/04/2022,Helsingborg,IFK Göteborg,0,1,A,0,1,A,12,10,3,5,0,0
+SE1,10/04/2022,Varberg,Kalmar,0,3,A,0,2,A,14,15,5,7,0,0
+SE1,10/04/2022,AIK,Norrköping,1,0,H,1,0,H,18,15,7,6,0,0
+SE1,10/04/2022,Mjällby,Djurgården,1,0,H,0,0,D,8,15,2,4,0,0
+SE1,11/04/2022,Värnamo,Sirius,0,0,D,0,0,D,13,6,3,4,0,0
+SE1,11/04/2022,Malmö FF,Elfsborg,1,1,D,1,0,H,11,15,5,6,0,0
+SE1,15/04/2022,Hammarby,Mjällby,2,0,H,0,0,D,18,4,9,0,0,0
+SE1,16/04/2022,Djurgården,Norrköping,2,1,H,0,1,A,18,14,6,6,0,0
+SE1,16/04/2022,Varberg,GIF Sundsvall,2,0,H,2,0,H,11,16,5,4,0,1
+SE1,17/04/2022,Kalmar,Degerfors,2,0,H,1,0,H,24,7,11,3,0,0
+SE1,17/04/2022,Malmö FF,AIK,3,0,H,2,0,H,11,17,8,3,0,0
+SE1,17/04/2022,Häcken,IFK Göteborg,0,2,A,0,1,A,16,19,0,6,1,0
+SE1,17/04/2022,Elfsborg,Värnamo,4,1,H,1,0,H,15,8,8,5,0,0
+SE1,17/04/2022,Sirius,Helsingborg,1,0,H,1,0,H,11,10,5,2,0,0
+SE1,20/04/2022,AIK,Varberg,1,0,H,1,0,H,18,5,6,3,0,0
+SE1,20/04/2022,IFK Göteborg,Djurgården,1,1,D,1,0,H,9,13,2,6,0,0
+SE1,20/04/2022,Norrköping,Häcken,1,1,D,1,1,D,13,15,2,4,0,0
+SE1,20/04/2022,Mjällby,Sirius,3,0,H,1,0,H,12,11,7,5,0,0
+SE1,20/04/2022,GIF Sundsvall,Kalmar,1,0,H,0,0,D,11,17,7,2,0,0
+SE1,21/04/2022,Degerfors,Hammarby,0,1,A,0,1,A,15,15,5,8,0,0
+SE1,21/04/2022,Helsingborg,Elfsborg,1,0,H,1,0,H,5,17,2,3,0,0
+SE1,21/04/2022,Värnamo,Malmö FF,0,0,D,0,0,D,10,12,4,4,0,0
+SE1,24/04/2022,AIK,Djurgården,1,0,H,1,0,H,9,12,2,3,0,0
+SE1,24/04/2022,Varberg,Mjällby,0,0,D,0,0,D,8,5,2,3,0,0
+SE1,24/04/2022,Helsingborg,Häcken,1,1,D,0,0,D,7,11,5,7,0,0
+SE1,25/04/2022,Elfsborg,GIF Sundsvall,3,1,H,1,1,D,32,10,10,4,0,0
+SE1,25/04/2022,Värnamo,Degerfors,2,0,H,1,0,H,18,20,6,5,0,0
+SE1,25/04/2022,Sirius,Hammarby,0,3,A,0,1,A,3,16,2,6,0,0
+SE1,25/04/2022,Malmö FF,IFK Göteborg,1,0,H,0,0,D,17,5,9,0,0,0
+SE1,26/04/2022,Kalmar,Norrköping,1,2,A,0,2,A,16,11,5,5,0,0
+SE1,30/04/2022,Djurgården,Sirius,4,0,H,2,0,H,16,15,9,7,0,0
+SE1,01/05/2022,Degerfors,Elfsborg,0,6,A,0,4,A,13,19,5,9,1,0
+SE1,01/05/2022,Mjällby,Helsingborg,2,1,H,1,1,D,14,9,5,3,0,0
+SE1,01/05/2022,Häcken,Varberg,3,1,H,2,0,H,22,11,12,5,0,0
+SE1,01/05/2022,GIF Sundsvall,AIK,0,2,A,0,0,D,9,25,2,8,0,0
+SE1,02/05/2022,Hammarby,Malmö FF,0,0,D,0,0,D,10,6,4,2,0,0
+SE1,02/05/2022,IFK Göteborg,Kalmar,1,2,A,1,0,H,20,10,5,7,0,0
+SE1,02/05/2022,Norrköping,Värnamo,2,0,H,0,0,D,21,19,9,5,0,0
+SE1,07/05/2022,AIK,IFK Göteborg,1,0,H,0,0,D,27,8,2,4,0,0
+SE1,07/05/2022,Malmö FF,Mjällby,2,0,H,2,0,H,25,8,12,3,0,0
+SE1,08/05/2022,Kalmar,Hammarby,2,0,H,2,0,H,7,11,7,5,0,0
+SE1,08/05/2022,Varberg,Sirius,0,2,A,0,0,D,16,15,4,7,0,0
+SE1,09/05/2022,Helsingborg,Norrköping,0,1,A,0,0,D,10,14,5,4,0,0
+SE1,09/05/2022,Elfsborg,Djurgården,0,0,D,0,0,D,6,11,3,3,0,0
+SE1,09/05/2022,Värnamo,Häcken,1,2,A,1,1,D,14,19,6,10,0,0
+SE1,09/05/2022,GIF Sundsvall,Degerfors,2,3,A,0,0,D,20,16,6,8,0,0
+SE1,14/05/2022,Mjällby,Värnamo,1,1,D,0,1,A,12,17,3,6,0,0
+SE1,14/05/2022,Sirius,Elfsborg,2,0,H,0,0,D,11,14,4,4,0,0
+SE1,15/05/2022,Häcken,Kalmar,3,1,H,1,1,D,15,16,5,5,0,0
+SE1,15/05/2022,Hammarby,AIK,3,3,D,2,1,H,15,16,8,7,0,0
+SE1,15/05/2022,Degerfors,Helsingborg,2,1,H,1,0,H,10,20,6,5,0,0
+SE1,15/05/2022,IFK Göteborg,Varberg,1,1,D,1,0,H,17,13,8,4,0,0
+SE1,15/05/2022,Norrköping,GIF Sundsvall,5,1,H,4,0,H,28,4,16,2,0,0
+SE1,16/05/2022,Djurgården,Malmö FF,4,0,H,2,0,H,17,9,6,3,0,0
+SE1,21/05/2022,AIK,Sirius,2,2,D,2,2,D,22,13,6,5,0,0
+SE1,21/05/2022,Helsingborg,Värnamo,1,4,A,1,0,H,12,11,4,6,0,0
+SE1,22/05/2022,Elfsborg,IFK Göteborg,3,1,H,2,1,H,21,23,8,8,0,0
+SE1,22/05/2022,Varberg,Degerfors,2,1,H,1,0,H,16,16,5,3,1,1
+SE1,22/05/2022,Kalmar,Djurgården,1,0,H,0,0,D,14,12,5,6,0,0
+SE1,22/05/2022,Malmö FF,Häcken,1,2,A,0,0,D,20,20,8,8,0,0
+SE1,22/05/2022,Hammarby,Norrköping,3,0,H,1,0,H,12,8,4,2,0,0
+SE1,23/05/2022,GIF Sundsvall,Mjällby,2,0,H,0,0,D,13,13,8,6,0,0
+SE1,28/05/2022,IFK Göteborg,GIF Sundsvall,2,0,H,0,0,D,18,5,6,3,0,0
+SE1,28/05/2022,Mjällby,Kalmar,1,1,D,1,0,H,7,15,4,7,0,0
+SE1,29/05/2022,Degerfors,Malmö FF,0,2,A,0,2,A,10,17,0,7,0,0
+SE1,28/05/2022,Häcken,Sirius,4,3,H,2,1,H,16,25,5,9,1,0
+SE1,29/05/2022,Djurgården,Varberg,4,0,H,2,0,H,22,7,10,2,0,0
+SE1,29/05/2022,Norrköping,Elfsborg,2,2,D,1,2,A,14,16,4,6,0,0
+SE1,29/05/2022,Helsingborg,AIK,1,2,A,1,0,H,9,15,3,8,0,0
+SE1,29/05/2022,Värnamo,Hammarby,1,0,H,0,0,D,10,11,4,2,0,0
+SE1,26/06/2022,Degerfors,AIK,1,1,D,1,1,D,16,20,6,6,0,0
+SE1,26/06/2022,Hammarby,Häcken,2,2,D,0,0,D,25,11,5,8,0,0
+SE1,27/06/2022,Elfsborg,Varberg,4,1,H,1,1,D,35,11,10,3,0,0
+SE1,27/06/2022,Sirius,IFK Göteborg,1,2,A,1,1,D,24,9,8,5,0,0
+SE1,27/06/2022,Kalmar,Värnamo,1,0,H,1,0,H,19,8,5,3,0,0
+SE1,27/06/2022,Malmö FF,Helsingborg,2,1,H,1,1,D,17,12,7,3,0,0
+SE1,26/06/2022,Mjällby,Norrköping,1,1,D,0,0,D,10,17,3,4,0,0
+SE1,26/06/2022,GIF Sundsvall,Djurgården,2,5,A,1,4,A,8,20,3,11,0,0
+SE1,02/07/2022,AIK,Mjällby,0,1,A,0,1,A,16,6,4,3,0,0
+SE1,03/07/2022,Häcken,Elfsborg,1,1,D,1,1,D,21,12,7,5,0,0
+SE1,03/07/2022,Djurgården,Hammarby,1,0,H,0,0,D,14,16,7,5,0,0
+SE1,02/07/2022,Helsingborg,Kalmar,1,1,D,0,1,A,10,11,7,2,0,0
+SE1,04/07/2022,IFK Göteborg,Degerfors,2,0,H,2,0,H,14,17,6,3,0,0
+SE1,03/07/2022,Norrköping,Sirius,0,1,A,0,0,D,9,8,3,2,0,0
+SE1,01/07/2022,GIF Sundsvall,Malmö FF,2,1,H,2,1,H,6,40,5,19,0,0
+SE1,03/07/2022,Varberg,Värnamo,3,0,H,1,0,H,17,22,6,4,0,0
+SE1,09/07/2022,Degerfors,Norrköping,1,1,D,0,1,A,16,14,2,4,0,0
+SE1,11/07/2022,Helsingborg,Djurgården,0,2,A,0,1,A,8,23,0,6,1,0
+SE1,11/07/2022,Hammarby,IFK Göteborg,3,0,H,1,0,H,24,4,7,2,0,0
+SE1,10/07/2022,Elfsborg,AIK,2,2,D,1,1,D,16,12,6,3,0,0
+SE1,11/07/2022,Värnamo,GIF Sundsvall,1,1,D,1,0,H,8,17,4,5,0,0
+SE1,10/07/2022,Kalmar,Sirius,1,1,D,1,1,D,16,5,3,3,0,0
+SE1,09/07/2022,Malmö FF,Varberg,3,0,H,1,0,H,28,6,9,2,0,0
+SE1,10/07/2022,Mjällby,Häcken,1,2,A,1,0,H,20,9,10,5,0,0
+SE1,17/07/2022,AIK,Kalmar,1,0,H,1,0,H,14,10,2,6,0,0
+SE1,16/07/2022,Djurgården,Värnamo,5,0,H,2,0,H,22,10,12,0,0,0
+SE1,17/07/2022,Hammarby,Elfsborg,3,0,H,2,0,H,19,16,10,4,0,0
+SE1,17/07/2022,IFK Göteborg,Mjällby,1,1,D,1,0,H,12,15,5,4,0,0
+SE1,16/07/2022,Norrköping,Malmö FF,0,2,A,0,1,A,13,21,3,4,0,0
+SE1,17/07/2022,Sirius,Degerfors,2,0,H,1,0,H,24,16,10,4,0,0
+SE1,18/07/2022,GIF Sundsvall,Häcken,1,5,A,1,1,D,5,28,2,12,0,0
+SE1,18/07/2022,Varberg,Helsingborg,0,0,D,0,0,D,18,16,3,6,0,0
+SE1,24/07/2022,Häcken,Djurgården,1,2,A,1,0,H,10,21,4,7,0,0
+SE1,24/07/2022,Helsingborg,GIF Sundsvall,1,0,H,1,0,H,16,14,3,6,0,0
+SE1,25/07/2022,Norrköping,IFK Göteborg,0,2,A,0,1,A,18,11,10,5,0,0
+SE1,24/07/2022,Värnamo,AIK,2,3,A,0,1,A,13,18,5,4,0,0
+SE1,24/07/2022,Kalmar,Elfsborg,1,0,H,0,0,D,7,14,2,3,0,0
+SE1,23/07/2022,Malmö FF,Sirius,3,1,H,1,0,H,28,6,7,3,0,1
+SE1,23/07/2022,Mjällby,Degerfors,2,1,H,0,0,D,14,9,5,4,0,1
+SE1,25/07/2022,Varberg,Hammarby,0,3,A,0,2,A,12,19,0,8,0,0
+SE1,11/05/2022,AIK,Malmö FF,2,0,H,1,0,H,14,16,9,3,0,0
+SE1,30/07/2022,Degerfors,Kalmar,2,1,H,1,1,D,9,11,4,6,0,0
+SE1,05/05/2022,Djurgården,Helsingborg,2,2,D,1,2,A,31,8,11,4,0,0
+SE1,31/07/2022,Hammarby,Värnamo,1,2,A,0,0,D,24,8,11,4,0,0
+SE1,31/07/2022,Elfsborg,Häcken,4,4,D,2,1,H,22,16,10,5,0,0
+SE1,01/08/2022,IFK Göteborg,Norrköping,2,0,H,1,0,H,16,12,6,4,0,0
+SE1,31/07/2022,Sirius,Mjällby,0,1,A,0,0,D,9,18,5,6,0,0
+SE1,30/07/2022,GIF Sundsvall,Varberg,1,3,A,0,3,A,24,10,9,5,0,0
+SE1,08/08/2022,Häcken,Helsingborg,5,0,H,1,0,H,16,9,8,2,0,0
+SE1,07/08/2022,Hammarby,GIF Sundsvall,3,0,H,1,0,H,31,7,12,0,0,0
+SE1,06/08/2022,Norrköping,Degerfors,2,0,H,1,0,H,10,11,5,4,0,0
+SE1,07/08/2022,Värnamo,Djurgården,0,0,D,0,0,D,10,10,2,2,0,0
+SE1,07/08/2022,Sirius,Malmö FF,2,1,H,1,1,D,15,19,8,5,0,0
+SE1,07/08/2022,Kalmar,AIK,1,0,H,0,0,D,20,16,4,4,0,0
+SE1,07/08/2022,Mjällby,Elfsborg,1,1,D,1,0,H,12,12,6,4,0,0
+SE1,08/08/2022,Varberg,IFK Göteborg,0,4,A,0,1,A,17,16,6,9,0,0
+SE1,14/08/2022,AIK,Värnamo,2,2,D,1,1,D,27,10,11,4,0,0
+SE1,15/08/2022,Häcken,Mjällby,1,0,H,0,0,D,23,11,11,0,0,0
+SE1,14/08/2022,Degerfors,Varberg,1,1,D,0,0,D,14,16,5,8,0,0
+SE1,14/08/2022,Djurgården,Kalmar,3,2,H,2,0,H,9,6,4,3,0,0
+SE1,13/08/2022,Helsingborg,Sirius,0,0,D,0,0,D,14,14,5,6,0,0
+SE1,14/08/2022,Elfsborg,Norrköping,1,1,D,1,0,H,15,13,4,6,0,0
+SE1,15/08/2022,IFK Göteborg,Hammarby,0,1,A,0,0,D,12,15,7,3,0,0
+SE1,14/08/2022,Malmö FF,GIF Sundsvall,3,1,H,3,0,H,26,4,7,2,0,0
+SE1,22/08/2022,Hammarby,Degerfors,5,1,H,2,1,H,15,21,9,6,0,0
+SE1,21/08/2022,Norrköping,AIK,2,4,A,0,3,A,22,8,6,6,0,1
+SE1,21/08/2022,Värnamo,Elfsborg,1,1,D,1,0,H,6,22,4,10,0,0
+SE1,22/08/2022,Sirius,Häcken,0,1,A,0,0,D,9,21,2,3,0,0
+SE1,22/08/2022,Kalmar,IFK Göteborg,1,0,H,0,0,D,15,18,5,4,0,0
+SE1,21/08/2022,Mjällby,Malmö FF,1,1,D,0,0,D,9,16,5,6,0,0
+SE1,21/08/2022,GIF Sundsvall,Helsingborg,1,2,A,0,1,A,11,17,3,7,0,0
+SE1,20/08/2022,Varberg,Djurgården,2,2,D,2,0,H,6,29,5,22,1,0
+SE1,28/08/2022,AIK,Hammarby,2,2,D,1,1,D,5,12,3,5,0,0
+SE1,27/08/2022,Häcken,Värnamo,4,1,H,1,0,H,24,19,11,7,0,0
+SE1,27/08/2022,Degerfors,GIF Sundsvall,3,1,H,1,1,D,20,16,8,7,0,0
+SE1,29/08/2022,Djurgården,Elfsborg,2,1,H,2,0,H,11,18,7,6,0,0
+SE1,28/08/2022,Helsingborg,Mjällby,0,1,A,0,0,D,10,13,3,4,0,0
+SE1,28/08/2022,IFK Göteborg,Sirius,2,0,H,1,0,H,10,6,5,2,0,0
+SE1,28/08/2022,Malmö FF,Kalmar,0,1,A,0,0,D,15,11,3,6,0,0
+SE1,28/08/2022,Varberg,Norrköping,1,1,D,0,1,A,21,8,8,3,0,0
+SE1,04/09/2022,AIK,GIF Sundsvall,4,0,H,1,0,H,21,10,7,3,0,0
+SE1,04/09/2022,Häcken,Degerfors,2,2,D,1,0,H,24,18,11,11,0,0
+SE1,04/09/2022,Elfsborg,Malmö FF,3,2,H,1,1,D,17,17,6,5,0,0
+SE1,05/09/2022,Norrköping,Hammarby,4,1,H,0,1,A,13,16,6,6,0,0
+SE1,05/09/2022,Värnamo,Helsingborg,3,2,H,2,1,H,16,21,7,5,0,0
+SE1,04/09/2022,Sirius,Djurgården,0,1,A,0,1,A,7,18,5,5,0,0
+SE1,05/09/2022,Kalmar,Varberg,1,0,H,1,0,H,13,7,5,5,0,0
+SE1,05/09/2022,Mjällby,IFK Göteborg,1,4,A,0,3,A,21,12,7,8,0,0
+SE1,10/09/2022,Degerfors,Mjällby,0,0,D,0,0,D,17,11,7,4,0,1
+SE1,11/09/2022,Hammarby,Djurgården,0,0,D,0,0,D,13,11,5,2,0,0
+SE1,12/09/2022,IFK Göteborg,Helsingborg,1,3,A,1,2,A,13,15,2,9,0,0
+SE1,10/09/2022,Sirius,Värnamo,2,3,A,0,2,A,20,11,4,5,0,0
+SE1,12/09/2022,Kalmar,Häcken,1,1,D,1,0,H,13,11,4,4,0,0
+SE1,11/09/2022,Malmö FF,Norrköping,2,1,H,0,1,A,25,10,14,2,0,1
+SE1,11/09/2022,GIF Sundsvall,Elfsborg,0,2,A,0,2,A,8,21,3,8,0,0
+SE1,11/09/2022,Varberg,AIK,2,0,H,0,0,D,17,15,5,5,0,0
+SE1,18/09/2022,AIK,Degerfors,1,1,D,1,0,H,18,9,5,3,0,0
+SE1,17/09/2022,Häcken,Hammarby,1,1,D,0,1,A,17,12,4,6,0,0
+SE1,18/09/2022,Djurgården,IFK Göteborg,3,0,H,2,0,H,19,13,8,3,0,0
+SE1,18/09/2022,Helsingborg,Malmö FF,1,2,A,1,1,D,13,16,7,4,0,0
+SE1,18/09/2022,Elfsborg,Sirius,3,0,H,2,0,H,17,10,10,3,0,0
+SE1,17/09/2022,Norrköping,Kalmar,2,2,D,1,0,H,9,21,6,9,0,0
+SE1,17/09/2022,Värnamo,Varberg,1,0,H,0,0,D,9,14,4,6,0,0
+SE1,18/09/2022,Mjällby,GIF Sundsvall,1,1,D,0,0,D,22,7,6,5,0,0
+SE1,01/10/2022,Degerfors,Djurgården,3,0,H,1,0,H,17,6,5,3,0,0
+SE1,03/10/2022,IFK Göteborg,Elfsborg,1,3,A,1,2,A,14,21,2,7,1,0
+SE1,03/10/2022,Värnamo,Mjällby,2,1,H,1,1,D,13,11,4,3,0,0
+SE1,02/10/2022,Sirius,AIK,1,1,D,0,0,D,13,16,5,6,0,0
+SE1,02/10/2022,Kalmar,Helsingborg,2,0,H,1,0,H,13,7,7,4,0,0
+SE1,01/10/2022,Malmö FF,Hammarby,0,0,D,0,0,D,11,7,5,2,0,0
+SE1,02/10/2022,GIF Sundsvall,Norrköping,1,3,A,0,2,A,9,10,4,5,0,0
+SE1,02/10/2022,Varberg,Häcken,1,1,D,1,0,H,17,16,5,5,0,0
+SE1,09/10/2022,AIK,Helsingborg,2,0,H,0,0,D,17,9,9,2,0,0
+SE1,08/10/2022,Degerfors,Sirius,0,0,D,0,0,D,7,9,0,4,0,0
+SE1,09/10/2022,Djurgården,Häcken,0,1,A,0,1,A,17,10,7,5,0,0
+SE1,10/10/2022,Hammarby,Varberg,5,1,H,3,0,H,19,10,13,4,0,0
+SE1,09/10/2022,Elfsborg,Kalmar,0,2,A,0,2,A,15,15,3,7,0,0
+SE1,10/10/2022,Norrköping,Mjällby,2,2,D,1,0,H,16,10,6,7,0,1
+SE1,09/10/2022,Malmö FF,Värnamo,0,0,D,0,0,D,20,8,5,4,0,0
+SE1,09/10/2022,GIF Sundsvall,IFK Göteborg,3,2,H,3,0,H,15,13,6,5,0,0
+SE1,15/10/2022,Häcken,GIF Sundsvall,4,1,H,1,1,D,21,7,10,3,0,1
+SE1,16/10/2022,Djurgården,AIK,1,2,A,0,1,A,22,10,8,5,0,1
+SE1,15/10/2022,Helsingborg,Varberg,1,3,A,0,2,A,16,10,4,5,0,0
+SE1,14/10/2022,Elfsborg,Degerfors,1,1,D,0,0,D,23,16,11,7,0,0
+SE1,17/10/2022,IFK Göteborg,Malmö FF,2,1,H,0,0,D,10,18,3,4,0,0
+SE1,15/10/2022,Värnamo,Kalmar,1,3,A,1,1,D,8,12,4,8,1,0
+SE1,15/10/2022,Sirius,Norrköping,2,0,H,2,0,H,8,16,3,6,0,0
+SE1,16/10/2022,Mjällby,Hammarby,0,3,A,0,3,A,10,17,0,6,0,0
+SE1,19/10/2022,AIK,Häcken,1,2,A,0,1,A,15,17,5,10,1,0
+SE1,20/10/2022,Degerfors,IFK Göteborg,3,1,H,0,1,A,22,8,10,3,0,0
+SE1,20/10/2022,Hammarby,Sirius,1,1,D,0,0,D,19,6,5,2,0,0
+SE1,19/10/2022,Norrköping,Helsingborg,2,0,H,1,0,H,14,6,6,0,0,0
+SE1,20/10/2022,Kalmar,Mjällby,1,2,A,0,1,A,14,10,9,4,0,0
+SE1,20/10/2022,Malmö FF,Djurgården,2,3,A,2,0,H,13,13,4,8,1,0
+SE1,19/10/2022,GIF Sundsvall,Värnamo,1,2,A,1,1,D,17,19,6,10,0,0
+SE1,19/10/2022,Varberg,Elfsborg,0,3,A,0,0,D,10,9,5,5,0,0
+SE1,23/10/2022,Häcken,Malmö FF,2,1,H,1,0,H,12,15,5,4,1,0
+SE1,24/10/2022,Djurgården,GIF Sundsvall,4,0,H,2,0,H,26,8,9,3,0,0
+SE1,23/10/2022,Helsingborg,Degerfors,1,2,A,0,1,A,18,17,5,4,0,0
+SE1,23/10/2022,Elfsborg,Hammarby,2,1,H,1,0,H,13,13,7,4,0,0
+SE1,24/10/2022,IFK Göteborg,AIK,1,0,H,0,0,D,8,12,2,5,0,0
+SE1,24/10/2022,Värnamo,Norrköping,1,1,D,0,1,A,16,11,5,4,0,0
+SE1,24/10/2022,Sirius,Kalmar,0,0,D,0,0,D,3,15,2,2,0,0
+SE1,24/10/2022,Mjällby,Varberg,4,1,H,1,0,H,16,16,6,2,0,0
+SE1,29/10/2022,Degerfors,Värnamo,0,0,D,0,0,D,25,9,6,0,0,0
+SE1,30/10/2022,Hammarby,Kalmar,4,2,H,1,0,H,18,9,7,4,0,0
+SE1,31/10/2022,Elfsborg,Helsingborg,3,0,H,1,0,H,25,13,7,4,0,0
+SE1,30/10/2022,IFK Göteborg,Häcken,0,4,A,0,3,A,20,17,5,9,0,0
+SE1,31/10/2022,Norrköping,Djurgården,0,1,A,0,0,D,12,8,3,4,0,0
+SE1,30/10/2022,Mjällby,AIK,1,2,A,0,1,A,14,16,4,9,0,0
+SE1,30/10/2022,GIF Sundsvall,Sirius,2,3,A,1,1,D,6,23,5,6,0,0
+SE1,30/10/2022,Varberg,Malmö FF,2,5,A,0,1,A,16,13,5,7,0,0
+SE1,06/11/2022,AIK,Elfsborg,0,1,A,0,0,D,24,19,7,8,1,0
+SE1,06/11/2022,Häcken,Norrköping,3,3,D,2,2,D,11,16,6,9,0,0
+SE1,06/11/2022,Djurgården,Mjällby,0,1,A,0,1,A,26,12,11,3,0,0
+SE1,06/11/2022,Helsingborg,Hammarby,0,2,A,0,0,D,10,11,3,3,0,0
+SE1,06/11/2022,Värnamo,IFK Göteborg,1,4,A,0,1,A,9,15,4,8,1,0
+SE1,06/11/2022,Sirius,Varberg,2,3,A,0,3,A,25,10,8,6,0,0
+SE1,06/11/2022,Kalmar,GIF Sundsvall,4,0,H,1,0,H,18,4,7,0,0,0
+SE1,06/11/2022,Malmö FF,Degerfors,2,2,D,1,1,D,13,12,4,7,0,0

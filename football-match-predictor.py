@@ -2,6 +2,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.naive_bayes import GaussianNB
 from sklearn.linear_model import LogisticRegression
+from sklearn.multiclass import OneVsRestClassifier
 from sklearn.svm import SVC
 import pandas as pd
 import numpy as np
@@ -12,6 +13,7 @@ from sklearn.metrics import f1_score
 from os import path, makedirs, walk
 from joblib import dump, load
 import json
+from pathlib import Path
 
 # Utility Functions
 
@@ -73,29 +75,23 @@ def derive_clean_sheet(src):
 
 # Data gathering
 
-en_data_folder = 'english-premier-league_zip'
-es_data_folder = 'spanish-la-liga_zip'
-fr_data_folder = 'french-ligue-1_zip'
-ge_data_folder = 'german-bundesliga_zip'
-it_data_folder = 'italian-serie-a_zip'
-
-# data_folders = [es_data_folder]
-data_folders = [en_data_folder, es_data_folder,
-                fr_data_folder, ge_data_folder, it_data_folder]
-
-season_range = (9, 18)
-
-data_files = []
-for data_folder in data_folders:
-    for season in range(season_range[0], season_range[1] + 1):
-        data_files.append(
-            'data/{}/data/season-{:02d}{:02d}_csv.csv'.format(data_folder, season, season + 1))
+required_dataset_columns = {
+    'HomeTeam', 'AwayTeam', 'HTHG', 'HTAG', 'HS', 'AS', 'HST', 'AST', 'HR', 'AR', 'FTR'
+}
+data_root = Path('data')
+data_files = sorted(
+    season_file
+    for league_dir in data_root.iterdir()
+    if league_dir.is_dir() and (league_dir / 'data').is_dir()
+    for season_file in (league_dir / 'data').glob('season-*_csv.csv')
+)
 
 data_frames = []
 
 for data_file in data_files:
-    if path.exists(data_file):
-        data_frames.append(pd.read_csv(data_file))
+    data_frame = pd.read_csv(data_file)
+    if required_dataset_columns.issubset(data_frame.columns):
+        data_frames.append(data_frame)
 
 data = pd.concat(data_frames).reset_index()
 print(data)
@@ -140,7 +136,7 @@ Y = data['FTR']
 X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2)
 
 svc_classifier = SVC(random_state=100, kernel='rbf')
-lr_classifier = LogisticRegression(multi_class='ovr', max_iter=500)
+lr_classifier = OneVsRestClassifier(LogisticRegression(max_iter=2000))
 nbClassifier = GaussianNB()
 dtClassifier = DecisionTreeClassifier()
 rfClassifier = RandomForestClassifier()

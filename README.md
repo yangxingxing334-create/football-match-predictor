@@ -3,6 +3,7 @@
 ## Overview
 
 This project uses Machine Learning to predict the outcome of a football match when given some stats from half time.
+The training data now also includes Swedish Allsvenskan historical matches alongside the original top-5 European leagues.
 
 You can check out the demo here: https://football-predictor.projects.aziztitu.com/
 
@@ -11,6 +12,7 @@ You can check out the demo here: https://football-predictor.projects.aziztitu.co
 After doing some research, I landed on this site: https://datahub.io/collections/football, which contained structured datasets for a variety of football competitions ranging from national leagues to world cups.
 
 For this project, I decided to select the datasets for the top 5 European Leagues that contained the match results for the last 9 years.
+This repository also includes normalized Swedish Allsvenskan historical season files so the exported models can predict matches involving Swedish league teams too.
 
 Here are the links to the datasets that I used:
 - https://datahub.io/sports-data/english-premier-league
@@ -18,6 +20,7 @@ Here are the links to the datasets that I used:
 - https://datahub.io/sports-data/italian-serie-a
 - https://datahub.io/sports-data/german-bundesliga
 - https://datahub.io/sports-data/french-ligue-1
+- https://github.com/bcalves/soccer_data/blob/2d000ceed38f79be6ca261a460035cc787a23294/Sweden_Allsvenskan.zip
 
 ## Data Pre-Processing
 
@@ -284,5 +287,4 @@ This is more of a long shot. As of now, the model makes the prediction based on 
 - Random Forest Usage: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 - Logistic Regression One vs Rest: https://utkuufuk.com/2018/06/03/one-vs-all-classification/
 - Logistic Regression One vs Rest Usage: https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/
-
 

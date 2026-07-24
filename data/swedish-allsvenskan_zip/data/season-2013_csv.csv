@@ -1,0 +1,167 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HR,AR
+SE1,22/05/2013,Gefle,IFK Göteborg,1,1,D,0,1,A,9,7,5,4,0,0
+SE1,22/05/2013,AIK,Djurgården,1,1,D,1,0,H,18,10,10,4,0,0
+SE1,23/05/2013,Syrianska,Häcken,0,3,A,0,0,D,13,9,4,5,0,0
+SE1,23/05/2013,Elfsborg,Brommapojkarna,6,0,H,3,0,H,8,7,4,4,0,0
+SE1,23/05/2013,Åtvidaberg,Mjällby,3,0,H,2,0,H,8,10,5,4,0,0
+SE1,23/05/2013,Halmstad,Norrköping,1,1,D,0,0,D,19,14,6,5,0,0
+SE1,23/05/2013,Kalmar,Öster,3,1,H,2,0,H,10,5,6,3,0,0
+SE1,29/05/2013,Malmö FF,Helsingborg,1,1,D,1,0,H,11,7,6,6,0,0
+SE1,30/05/2013,Djurgården,Kalmar,1,0,H,1,0,H,15,10,7,6,0,0
+SE1,30/05/2013,Norrköping,AIK,0,1,A,0,1,A,12,17,7,6,0,0
+SE1,31/05/2013,Öster,IFK Göteborg,2,0,H,0,0,D,8,12,4,7,0,0
+SE1,01/06/2013,Brommapojkarna,Malmö FF,1,3,A,0,1,A,4,12,0,5,0,0
+SE1,01/06/2013,Mjällby,Halmstad,5,1,H,1,1,D,5,18,2,8,0,1
+SE1,01/06/2013,Häcken,Elfsborg,0,1,A,0,1,A,12,8,8,2,0,0
+SE1,01/06/2013,Helsingborg,Åtvidaberg,3,0,H,2,0,H,16,4,10,3,0,0
+SE1,15/06/2013,Gefle,Öster,0,0,D,0,0,D,4,6,3,3,0,0
+SE1,17/06/2013,Kalmar,Norrköping,2,2,D,1,0,H,14,14,6,4,0,1
+SE1,17/06/2013,IFK Göteborg,Djurgården,0,0,D,0,0,D,15,15,6,7,0,0
+SE1,19/06/2013,Häcken,Åtvidaberg,0,2,A,0,0,D,14,6,6,3,1,0
+SE1,19/06/2013,Elfsborg,Gefle,0,0,D,0,0,D,24,4,8,2,0,0
+SE1,19/06/2013,Brommapojkarna,Halmstad,1,1,D,0,1,A,18,11,5,6,0,0
+SE1,20/06/2013,Mjällby,Kalmar,0,2,A,0,0,D,12,10,6,3,0,0
+SE1,20/06/2013,Syrianska,Malmö FF,2,3,A,0,1,A,9,9,5,3,0,0
+SE1,20/06/2013,Norrköping,IFK Göteborg,1,2,A,0,1,A,14,13,6,3,0,0
+SE1,23/06/2013,Åtvidaberg,Syrianska,1,0,H,0,0,D,10,10,4,5,0,1
+SE1,23/06/2013,Halmstad,Häcken,0,2,A,0,1,A,12,19,9,4,0,0
+SE1,23/06/2013,Kalmar,Helsingborg,1,1,D,1,0,H,7,14,5,6,0,0
+SE1,24/06/2013,Öster,Norrköping,0,2,A,0,2,A,19,6,9,3,0,0
+SE1,24/06/2013,IFK Göteborg,Mjällby,4,2,H,3,1,H,18,10,10,7,0,0
+SE1,24/06/2013,Gefle,Djurgården,1,1,D,0,0,D,14,12,6,5,0,0
+SE1,24/06/2013,AIK,Brommapojkarna,4,0,H,1,0,H,11,10,3,5,0,0
+SE1,24/06/2013,Malmö FF,Elfsborg,2,1,H,1,0,H,10,8,4,4,0,0
+SE1,27/06/2013,Malmö FF,Häcken,1,3,A,1,3,A,21,10,8,9,0,0
+SE1,27/06/2013,Helsingborg,AIK,1,2,A,1,0,H,8,21,5,14,1,0
+SE1,30/06/2013,Elfsborg,Syrianska,5,1,H,0,0,D,25,8,14,2,0,0
+SE1,30/06/2013,Djurgården,Öster,2,0,H,1,0,H,18,13,8,7,0,0
+SE1,01/07/2013,Åtvidaberg,Brommapojkarna,4,1,H,1,0,H,9,9,4,3,0,0
+SE1,01/07/2013,AIK,Mjällby,0,0,D,0,0,D,22,6,8,3,0,0
+SE1,06/07/2013,Elfsborg,Åtvidaberg,0,1,A,0,1,A,15,8,6,0,0,0
+SE1,06/07/2013,Brommapojkarna,Kalmar,0,1,A,0,1,A,13,14,8,9,0,0
+SE1,06/07/2013,Mjällby,Öster,1,1,D,0,1,A,15,14,5,8,0,0
+SE1,07/07/2013,Malmö FF,Gefle,3,1,H,1,1,D,19,5,13,3,0,0
+SE1,07/07/2013,Syrianska,Halmstad,1,2,A,1,1,D,12,10,5,3,0,0
+SE1,07/07/2013,AIK,Häcken,2,0,H,0,0,D,15,14,6,4,0,0
+SE1,08/07/2013,Helsingborg,IFK Göteborg,1,1,D,0,1,A,17,15,9,9,0,1
+SE1,13/07/2013,Brommapojkarna,IFK Göteborg,2,1,H,2,0,H,12,10,6,3,0,0
+SE1,13/07/2013,Elfsborg,Halmstad,2,2,D,0,2,A,26,6,12,3,0,0
+SE1,13/07/2013,Häcken,Kalmar,0,1,A,0,0,D,21,8,10,4,0,0
+SE1,14/07/2013,Gefle,Norrköping,2,2,D,1,1,D,12,7,2,2,0,0
+SE1,14/07/2013,Mjällby,Djurgården,2,0,H,2,0,H,7,7,3,5,0,0
+SE1,14/07/2013,Malmö FF,Åtvidaberg,4,0,H,1,0,H,10,5,6,3,0,0
+SE1,14/07/2013,Syrianska,AIK,1,2,A,0,1,A,12,10,7,7,0,1
+SE1,15/07/2013,Helsingborg,Öster,3,0,H,1,0,H,16,10,7,5,1,1
+SE1,21/07/2013,Djurgården,Norrköping,1,2,A,1,1,D,13,13,4,3,0,0
+SE1,22/07/2013,Häcken,AIK,2,3,A,1,1,D,11,8,8,7,0,0
+SE1,24/07/2013,Halmstad,Helsingborg,0,1,A,0,0,D,8,13,5,7,0,0
+SE1,27/07/2013,Kalmar,Brommapojkarna,2,2,D,1,1,D,16,9,9,0,0,0
+SE1,27/07/2013,Öster,Mjällby,1,1,D,1,1,D,18,12,4,4,0,0
+SE1,27/07/2013,Åtvidaberg,Elfsborg,1,1,D,1,0,H,8,13,3,4,0,0
+SE1,28/07/2013,IFK Göteborg,Helsingborg,2,4,A,2,2,D,13,8,7,7,0,0
+SE1,28/07/2013,Gefle,Malmö FF,2,0,H,1,0,H,11,13,5,4,0,0
+SE1,29/07/2013,Halmstad,Syrianska,1,1,D,0,1,A,21,17,13,7,0,0
+SE1,03/08/2013,Kalmar,Syrianska,1,0,H,0,0,D,19,8,10,6,0,1
+SE1,03/08/2013,Öster,Brommapojkarna,0,0,D,0,0,D,10,19,5,7,1,0
+SE1,03/08/2013,AIK,Elfsborg,2,1,H,1,0,H,21,9,8,3,0,0
+SE1,04/08/2013,Åtvidaberg,Gefle,1,1,D,0,0,D,14,9,5,0,0,0
+SE1,04/08/2013,Halmstad,Malmö FF,1,3,A,1,2,A,6,14,0,7,1,0
+SE1,04/08/2013,IFK Göteborg,Häcken,3,1,H,2,1,H,13,9,6,2,0,0
+SE1,05/08/2013,Norrköping,Mjällby,3,2,H,1,1,D,17,10,13,6,0,0
+SE1,05/08/2013,Djurgården,Helsingborg,2,1,H,1,1,D,11,9,4,4,0,0
+SE1,10/08/2013,Åtvidaberg,Halmstad,0,1,A,0,0,D,14,12,4,4,0,0
+SE1,10/08/2013,Elfsborg,Kalmar,1,0,H,0,0,D,15,9,9,3,0,0
+SE1,10/08/2013,Brommapojkarna,Djurgården,3,0,H,2,0,H,12,13,4,8,0,0
+SE1,11/08/2013,Gefle,Mjällby,2,1,H,1,1,D,11,9,5,4,0,0
+SE1,11/08/2013,Syrianska,IFK Göteborg,0,2,A,0,1,A,11,11,3,7,0,0
+SE1,11/08/2013,Helsingborg,Norrköping,0,0,D,0,0,D,14,14,10,7,0,0
+SE1,11/08/2013,Häcken,Öster,0,2,A,0,1,A,12,5,5,3,0,0
+SE1,11/08/2013,Malmö FF,AIK,1,0,H,1,0,H,6,12,0,9,0,0
+SE1,16/08/2013,Öster,Syrianska,1,0,H,1,0,H,14,4,7,0,0,0
+SE1,17/08/2013,IFK Göteborg,Elfsborg,3,1,H,0,0,D,10,14,3,5,1,1
+SE1,17/08/2013,Norrköping,Brommapojkarna,2,1,H,1,1,D,8,14,3,7,0,0
+SE1,18/08/2013,Halmstad,Gefle,2,2,D,1,1,D,19,18,7,11,0,0
+SE1,18/08/2013,Djurgården,Häcken,1,1,D,1,0,H,12,15,3,6,0,0
+SE1,18/08/2013,Kalmar,Malmö FF,1,4,A,0,1,A,7,7,3,4,0,0
+SE1,19/08/2013,AIK,Åtvidaberg,3,2,H,1,0,H,13,5,4,2,0,0
+SE1,19/08/2013,Mjällby,Helsingborg,4,3,H,2,0,H,11,16,5,7,0,1
+SE1,22/08/2013,Norrköping,Djurgården,2,3,A,1,3,A,11,10,4,7,0,0
+SE1,25/08/2013,Gefle,Helsingborg,1,2,A,1,1,D,7,14,2,8,0,0
+SE1,25/08/2013,Halmstad,AIK,1,0,H,1,0,H,12,22,6,11,1,0
+SE1,25/08/2013,Elfsborg,Öster,2,4,A,1,1,D,8,10,4,7,1,0
+SE1,25/08/2013,Malmö FF,IFK Göteborg,3,1,H,2,1,H,9,6,3,6,0,0
+SE1,26/08/2013,Brommapojkarna,Mjällby,2,0,H,1,0,H,10,6,5,5,0,1
+SE1,26/08/2013,Åtvidaberg,Kalmar,0,0,D,0,0,D,11,5,4,0,0,0
+SE1,26/08/2013,Häcken,Norrköping,1,0,H,0,0,D,15,13,6,6,0,0
+SE1,26/08/2013,Syrianska,Djurgården,1,3,A,1,0,H,12,9,4,5,1,0
+SE1,30/08/2013,Helsingborg,Brommapojkarna,4,2,H,0,1,A,22,9,14,4,0,0
+SE1,31/08/2013,AIK,Gefle,3,0,H,1,0,H,29,8,12,4,0,0
+SE1,01/09/2013,IFK Göteborg,Åtvidaberg,3,0,H,1,0,H,19,15,5,6,0,0
+SE1,01/09/2013,Öster,Malmö FF,1,1,D,1,1,D,7,16,4,9,0,0
+SE1,01/09/2013,Norrköping,Syrianska,6,1,H,0,1,A,15,7,6,4,0,1
+SE1,01/09/2013,Mjällby,Häcken,1,1,D,0,0,D,8,8,3,2,0,0
+SE1,01/09/2013,Kalmar,Halmstad,1,0,H,0,0,D,11,10,5,5,0,0
+SE1,01/09/2013,Djurgården,Elfsborg,1,2,A,0,1,A,15,11,8,5,0,0
+SE1,14/09/2013,Gefle,Brommapojkarna,1,0,H,1,0,H,8,22,5,8,0,0
+SE1,14/09/2013,Åtvidaberg,Öster,4,0,H,1,0,H,9,10,6,5,0,0
+SE1,15/09/2013,Elfsborg,Norrköping,4,1,H,2,0,H,16,14,2,5,0,1
+SE1,15/09/2013,AIK,Kalmar,0,0,D,0,0,D,20,7,7,4,0,0
+SE1,15/09/2013,Halmstad,IFK Göteborg,0,1,A,0,0,D,17,11,6,4,0,0
+SE1,15/09/2013,Häcken,Helsingborg,3,2,H,1,0,H,13,10,6,3,0,0
+SE1,15/09/2013,Syrianska,Mjällby,1,2,A,0,1,A,9,8,4,4,0,0
+SE1,16/09/2013,Malmö FF,Djurgården,0,2,A,0,1,A,12,4,5,2,0,0
+SE1,20/09/2013,Öster,Halmstad,0,1,A,0,1,A,26,17,9,9,0,0
+SE1,21/09/2013,Kalmar,Gefle,0,0,D,0,0,D,14,13,7,3,0,0
+SE1,22/09/2013,Brommapojkarna,Häcken,1,0,H,0,0,D,10,10,5,5,0,1
+SE1,22/09/2013,Mjällby,Elfsborg,2,2,D,1,2,A,7,12,5,6,1,1
+SE1,22/09/2013,Norrköping,Malmö FF,0,2,A,0,1,A,11,7,6,5,0,0
+SE1,22/09/2013,Helsingborg,Syrianska,2,2,D,1,1,D,19,11,13,5,1,1
+SE1,22/09/2013,Djurgården,Åtvidaberg,2,0,H,1,0,H,9,9,4,4,0,0
+SE1,23/09/2013,IFK Göteborg,AIK,3,1,H,1,0,H,7,19,3,4,0,0
+SE1,25/09/2013,Häcken,Syrianska,4,0,H,1,0,H,12,6,5,3,0,0
+SE1,25/09/2013,Brommapojkarna,Elfsborg,1,0,H,0,0,D,15,11,8,7,0,0
+SE1,25/09/2013,Helsingborg,Malmö FF,0,3,A,0,1,A,10,11,7,7,0,0
+SE1,26/09/2013,Mjällby,Åtvidaberg,0,1,A,0,1,A,10,15,3,7,0,0
+SE1,26/09/2013,IFK Göteborg,Gefle,3,1,H,3,1,H,15,17,7,11,0,0
+SE1,26/09/2013,Norrköping,Halmstad,3,2,H,2,1,H,14,16,4,6,0,0
+SE1,26/09/2013,Djurgården,AIK,2,2,D,2,2,D,13,12,5,6,0,0
+SE1,28/09/2013,Syrianska,Brommapojkarna,1,2,A,0,2,A,5,8,3,5,0,0
+SE1,29/09/2013,Kalmar,IFK Göteborg,2,1,H,0,0,D,8,10,4,5,0,0
+SE1,29/09/2013,Halmstad,Djurgården,1,4,A,0,1,A,21,15,13,7,0,0
+SE1,29/09/2013,Elfsborg,Helsingborg,1,1,D,1,0,H,15,11,5,5,1,0
+SE1,30/09/2013,Malmö FF,Mjällby,1,0,H,0,0,D,13,5,6,3,0,0
+SE1,30/09/2013,Gefle,Häcken,0,0,D,0,0,D,15,16,9,8,0,1
+SE1,30/09/2013,AIK,Öster,2,1,H,1,1,D,21,5,9,3,0,0
+SE1,30/09/2013,Åtvidaberg,Norrköping,1,3,A,1,1,D,9,12,3,7,1,0
+SE1,04/10/2013,Mjällby,AIK,2,3,A,2,3,A,12,11,7,6,0,0
+SE1,05/10/2013,Brommapojkarna,Åtvidaberg,0,0,D,0,0,D,8,9,4,4,0,0
+SE1,05/10/2013,Norrköping,Kalmar,0,1,A,0,1,A,7,11,3,5,0,0
+SE1,06/10/2013,Syrianska,Elfsborg,1,3,A,1,1,D,11,3,4,3,0,0
+SE1,06/10/2013,Öster,Gefle,1,4,A,0,2,A,17,12,7,4,0,0
+SE1,06/10/2013,Djurgården,IFK Göteborg,2,1,H,0,1,A,22,7,9,5,0,0
+SE1,06/10/2013,Häcken,Malmö FF,2,0,H,1,0,H,10,14,7,8,1,0
+SE1,06/10/2013,Helsingborg,Halmstad,4,2,H,3,0,H,12,17,7,8,0,0
+SE1,19/10/2013,Gefle,Syrianska,2,0,H,1,0,H,8,16,3,8,0,0
+SE1,20/10/2013,IFK Göteborg,Öster,0,0,D,0,0,D,17,11,8,6,0,0
+SE1,20/10/2013,Åtvidaberg,Helsingborg,3,0,H,1,0,H,13,15,5,4,0,1
+SE1,20/10/2013,Malmö FF,Brommapojkarna,2,1,H,1,0,H,23,5,13,3,0,0
+SE1,20/10/2013,Elfsborg,Häcken,0,0,D,0,0,D,18,13,5,3,0,0
+SE1,21/10/2013,Kalmar,Djurgården,1,2,A,1,1,D,19,7,6,2,0,0
+SE1,21/10/2013,Halmstad,Mjällby,1,0,H,0,0,D,23,9,8,6,0,0
+SE1,21/10/2013,AIK,Norrköping,1,0,H,1,0,H,21,15,10,6,0,0
+SE1,25/10/2013,Häcken,Halmstad,1,3,A,1,1,D,12,9,6,6,0,0
+SE1,26/10/2013,Brommapojkarna,AIK,0,6,A,0,3,A,12,13,4,7,0,0
+SE1,27/10/2013,Mjällby,IFK Göteborg,2,1,H,2,0,H,14,13,4,5,0,0
+SE1,27/10/2013,Djurgården,Gefle,1,1,D,1,1,D,27,12,11,5,0,0
+SE1,27/10/2013,Syrianska,Åtvidaberg,4,1,H,1,1,D,10,8,2,5,0,1
+SE1,27/10/2013,Helsingborg,Kalmar,2,3,A,1,0,H,14,11,9,5,0,0
+SE1,28/10/2013,Norrköping,Öster,1,1,D,1,0,H,7,24,3,9,0,0
+SE1,28/10/2013,Elfsborg,Malmö FF,0,2,A,0,1,A,8,11,3,4,0,0
+SE1,03/11/2013,Kalmar,Mjällby,2,1,H,2,1,H,13,4,6,2,0,0
+SE1,03/11/2013,AIK,Helsingborg,2,1,H,2,0,H,20,14,8,7,0,0
+SE1,03/11/2013,Malmö FF,Syrianska,3,1,H,3,0,H,4,10,0,6,1,0
+SE1,03/11/2013,IFK Göteborg,Norrköping,2,0,H,0,0,D,22,11,14,4,0,0
+SE1,03/11/2013,Öster,Djurgården,1,1,D,1,0,H,17,14,11,6,0,0
+SE1,03/11/2013,Gefle,Elfsborg,0,2,A,0,1,A,11,17,5,4,0,0
+SE1,03/11/2013,Halmstad,Brommapojkarna,2,2,D,1,1,D,14,8,11,3,0,0
+SE1,03/11/2013,Åtvidaberg,Häcken,2,2,D,0,0,D,14,16,6,7,0,0
