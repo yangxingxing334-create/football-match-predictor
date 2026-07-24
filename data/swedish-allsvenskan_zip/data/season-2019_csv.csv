@@ -1,0 +1,241 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HR,AR
+SE1,31/03/2019,Falkenberg,Örebro,1,0,H,0,0,D,7,5,3,2,0,0
+SE1,31/03/2019,Kalmar,Sirius,0,2,A,0,1,A,16,7,6,4,0,0
+SE1,31/03/2019,AIK,Östersunds FK,0,0,D,0,0,D,12,7,4,3,0,0
+SE1,31/03/2019,Helsingborg,Norrköping,3,1,H,2,1,H,12,8,6,4,0,0
+SE1,31/03/2019,AFC Eskilstuna,IFK Göteborg,3,1,H,1,0,H,11,10,5,5,0,0
+SE1,01/04/2019,Elfsborg,Hammarby,1,1,D,1,1,D,13,9,5,3,0,0
+SE1,01/04/2019,Malmö FF,Häcken,1,1,D,0,0,D,10,13,7,5,0,0
+SE1,01/04/2019,Djurgården,GIF Sundsvall,2,2,D,2,1,H,12,9,7,6,0,0
+SE1,06/04/2019,GIF Sundsvall,Malmö FF,3,1,H,0,0,D,14,18,9,6,0,0
+SE1,06/04/2019,Häcken,Helsingborg,2,1,H,1,0,H,9,5,5,4,0,0
+SE1,07/04/2019,Östersunds FK,Falkenberg,3,2,H,1,1,D,10,11,6,6,0,0
+SE1,07/04/2019,IFK Göteborg,Elfsborg,3,0,H,2,0,H,8,6,8,0,0,1
+SE1,07/04/2019,Hammarby,Kalmar,1,1,D,0,1,A,19,7,7,4,0,0
+SE1,08/04/2019,Örebro,Djurgården,0,3,A,0,1,A,4,20,2,8,0,0
+SE1,08/04/2019,Norrköping,AIK,0,0,D,0,0,D,10,8,4,6,0,0
+SE1,08/04/2019,Sirius,AFC Eskilstuna,3,2,H,3,1,H,13,14,8,9,0,0
+SE1,12/04/2019,AFC Eskilstuna,Örebro,1,1,D,0,0,D,13,16,6,4,0,0
+SE1,13/04/2019,Falkenberg,Häcken,0,3,A,0,0,D,8,18,4,9,0,0
+SE1,13/04/2019,Kalmar,Norrköping,2,2,D,0,0,D,14,7,8,4,0,0
+SE1,14/04/2019,Elfsborg,GIF Sundsvall,3,1,H,1,1,D,13,10,7,6,0,0
+SE1,14/04/2019,AIK,Sirius,2,1,H,0,1,A,8,8,4,4,0,0
+SE1,14/04/2019,Malmö FF,Östersunds FK,2,0,H,1,0,H,13,3,7,2,0,0
+SE1,15/04/2019,Helsingborg,Hammarby,2,1,H,1,1,D,11,12,6,3,0,0
+SE1,15/04/2019,Djurgården,IFK Göteborg,2,1,H,0,0,D,9,9,4,4,0,1
+SE1,19/04/2019,Östersunds FK,Elfsborg,1,1,D,0,1,A,10,10,6,5,0,0
+SE1,20/04/2019,Sirius,Malmö FF,0,1,A,0,0,D,3,14,3,6,0,0
+SE1,19/04/2019,Örebro,AIK,2,1,H,0,0,D,9,15,5,6,0,0
+SE1,19/04/2019,Norrköping,Falkenberg,4,3,H,2,1,H,12,13,8,4,1,0
+SE1,21/04/2019,Häcken,Djurgården,0,1,A,0,0,D,9,11,5,5,0,0
+SE1,21/04/2019,Hammarby,AFC Eskilstuna,3,1,H,2,0,H,12,11,6,3,0,0
+SE1,22/04/2019,IFK Göteborg,Helsingborg,3,1,H,2,0,H,13,5,9,3,0,0
+SE1,20/04/2019,GIF Sundsvall,Kalmar,1,2,A,1,2,A,7,10,3,7,0,0
+SE1,24/04/2019,Elfsborg,Örebro,4,2,H,3,0,H,14,10,7,6,0,0
+SE1,24/04/2019,Falkenberg,Sirius,0,0,D,0,0,D,11,9,4,4,0,0
+SE1,24/04/2019,Malmö FF,Hammarby,4,1,H,0,1,A,12,4,8,2,0,0
+SE1,24/04/2019,AIK,Häcken,1,0,H,0,0,D,10,13,6,5,0,0
+SE1,24/04/2019,AFC Eskilstuna,Östersunds FK,0,1,A,0,1,A,12,8,5,4,0,0
+SE1,25/04/2019,Helsingborg,GIF Sundsvall,1,1,D,0,0,D,13,11,6,6,0,0
+SE1,25/04/2019,Kalmar,IFK Göteborg,1,1,D,0,0,D,9,8,5,3,0,0
+SE1,25/04/2019,Djurgården,Norrköping,1,1,D,0,1,A,19,12,8,7,0,0
+SE1,27/04/2019,Sirius,Elfsborg,2,4,A,1,4,A,7,10,3,7,0,0
+SE1,28/04/2019,Hammarby,Djurgården,2,1,H,2,1,H,9,8,5,4,0,0
+SE1,28/04/2019,Häcken,AFC Eskilstuna,3,0,H,0,0,D,13,6,9,2,0,0
+SE1,28/04/2019,Norrköping,Malmö FF,1,1,D,1,1,D,5,11,2,7,0,0
+SE1,29/04/2019,Örebro,Kalmar,1,1,D,0,0,D,8,23,5,9,0,0
+SE1,29/04/2019,GIF Sundsvall,Falkenberg,3,1,H,1,0,H,10,13,6,4,0,0
+SE1,29/04/2019,Östersunds FK,Helsingborg,3,0,H,2,0,H,9,8,6,4,0,0
+SE1,29/04/2019,IFK Göteborg,AIK,3,0,H,1,0,H,11,6,8,3,0,0
+SE1,04/05/2019,AIK,AFC Eskilstuna,2,1,H,1,0,H,9,10,5,6,0,1
+SE1,04/05/2019,Sirius,IFK Göteborg,2,4,A,2,1,H,7,10,2,7,0,0
+SE1,05/05/2019,Falkenberg,Malmö FF,1,2,A,1,2,A,10,8,4,4,0,0
+SE1,05/05/2019,Kalmar,Östersunds FK,1,1,D,0,1,A,19,9,8,5,0,0
+SE1,05/05/2019,Häcken,GIF Sundsvall,1,0,H,0,0,D,15,8,8,5,0,0
+SE1,05/05/2019,Örebro,Hammarby,2,3,A,0,1,A,9,20,5,6,0,0
+SE1,06/05/2019,Helsingborg,Djurgården,1,1,D,0,1,A,14,7,4,5,0,0
+SE1,06/05/2019,Elfsborg,Norrköping,0,0,D,0,0,D,8,5,5,2,0,0
+SE1,10/05/2019,Hammarby,Sirius,2,0,H,2,0,H,12,10,6,3,0,0
+SE1,11/05/2019,Östersunds FK,Häcken,1,1,D,1,1,D,8,13,4,7,0,0
+SE1,11/05/2019,Kalmar,Helsingborg,1,0,H,0,0,D,16,12,8,7,0,0
+SE1,11/05/2019,AFC Eskilstuna,Falkenberg,0,0,D,0,0,D,6,6,0,2,0,0
+SE1,11/05/2019,GIF Sundsvall,Örebro,1,2,A,0,0,D,10,14,6,7,0,0
+SE1,12/05/2019,Djurgården,AIK,0,2,A,0,0,D,8,12,5,7,0,0
+SE1,12/05/2019,Malmö FF,Elfsborg,4,1,H,1,0,H,18,6,9,5,0,1
+SE1,13/05/2019,Norrköping,IFK Göteborg,1,2,A,1,1,D,14,9,8,6,0,0
+SE1,14/05/2019,Hammarby,Östersunds FK,4,0,H,3,0,H,17,9,8,2,1,0
+SE1,15/05/2019,Helsingborg,AIK,1,3,A,1,2,A,5,6,3,6,0,0
+SE1,15/05/2019,Elfsborg,AFC Eskilstuna,1,0,H,0,0,D,7,5,2,2,0,0
+SE1,15/05/2019,Falkenberg,Djurgården,0,3,A,0,3,A,11,10,0,5,0,0
+SE1,15/05/2019,Häcken,Kalmar,1,0,H,0,0,D,8,9,5,3,0,0
+SE1,15/05/2019,Sirius,GIF Sundsvall,1,0,H,1,0,H,6,8,4,3,0,0
+SE1,16/05/2019,Örebro,Norrköping,1,2,A,0,1,A,13,22,2,8,0,0
+SE1,16/05/2019,IFK Göteborg,Malmö FF,0,0,D,0,0,D,6,9,4,2,0,0
+SE1,18/05/2019,AFC Eskilstuna,Helsingborg,1,1,D,0,0,D,8,11,3,4,0,0
+SE1,19/05/2019,Malmö FF,Kalmar,1,0,H,0,0,D,17,6,11,2,0,0
+SE1,19/05/2019,Sirius,Häcken,3,4,A,1,2,A,10,10,6,7,0,1
+SE1,19/05/2019,Djurgården,Elfsborg,2,0,H,2,0,H,5,11,3,3,1,0
+SE1,20/05/2019,Norrköping,GIF Sundsvall,2,0,H,2,0,H,16,13,8,3,0,0
+SE1,20/05/2019,Östersunds FK,Örebro,1,3,A,0,2,A,18,16,12,8,0,0
+SE1,20/05/2019,IFK Göteborg,Hammarby,0,0,D,0,0,D,9,11,2,5,0,1
+SE1,20/05/2019,AIK,Falkenberg,2,0,H,0,0,D,13,16,9,6,0,0
+SE1,25/05/2019,Helsingborg,Falkenberg,1,1,D,0,1,A,19,11,11,5,0,0
+SE1,27/05/2019,Örebro,Sirius,0,2,A,0,1,A,9,8,2,5,0,0
+SE1,24/05/2019,GIF Sundsvall,AIK,1,1,D,1,1,D,9,7,5,5,0,0
+SE1,26/05/2019,Kalmar,Elfsborg,1,1,D,0,0,D,8,5,4,3,0,0
+SE1,25/05/2019,Malmö FF,AFC Eskilstuna,5,0,H,1,0,H,16,6,10,2,0,0
+SE1,27/05/2019,Hammarby,Norrköping,2,2,D,1,2,A,14,7,7,5,0,0
+SE1,26/05/2019,Djurgården,Östersunds FK,3,1,H,2,1,H,20,5,12,2,0,0
+SE1,25/05/2019,Häcken,IFK Göteborg,1,2,A,0,1,A,13,12,6,7,1,0
+SE1,02/06/2019,Helsingborg,Malmö FF,0,1,A,0,1,A,11,17,7,7,0,0
+SE1,02/06/2019,Elfsborg,Häcken,0,0,D,0,0,D,6,19,4,7,1,0
+SE1,01/06/2019,Falkenberg,Kalmar,0,0,D,0,0,D,13,12,6,2,0,0
+SE1,01/06/2019,Östersunds FK,GIF Sundsvall,1,1,D,0,1,A,15,7,6,3,0,0
+SE1,01/06/2019,IFK Göteborg,Örebro,0,1,A,0,1,A,13,6,3,2,0,0
+SE1,02/06/2019,AIK,Hammarby,2,0,H,2,0,H,11,9,4,0,0,0
+SE1,01/06/2019,Sirius,Djurgården,0,2,A,0,1,A,7,6,3,3,0,0
+SE1,02/06/2019,AFC Eskilstuna,Norrköping,0,2,A,0,1,A,10,6,4,4,0,0
+SE1,28/06/2019,Örebro,Helsingborg,0,1,A,0,1,A,6,14,3,6,0,0
+SE1,29/06/2019,Falkenberg,Elfsborg,2,1,H,1,1,D,13,13,6,6,0,0
+SE1,30/06/2019,Norrköping,Sirius,0,1,A,0,0,D,15,15,7,7,0,0
+SE1,29/06/2019,GIF Sundsvall,AFC Eskilstuna,0,0,D,0,0,D,8,8,3,3,0,0
+SE1,29/06/2019,Östersunds FK,IFK Göteborg,0,0,D,0,0,D,4,4,4,4,0,0
+SE1,01/07/2019,Djurgården,Kalmar,2,0,H,0,0,D,26,9,13,4,0,0
+SE1,01/07/2019,Häcken,Hammarby,2,0,H,1,0,H,14,10,9,7,0,1
+SE1,30/06/2019,AIK,Malmö FF,0,0,D,0,0,D,8,8,0,0,0,0
+SE1,08/07/2019,Elfsborg,Helsingborg,1,1,D,0,0,D,7,11,3,4,0,0
+SE1,07/07/2019,Norrköping,Häcken,2,1,H,1,0,H,9,12,4,7,0,0
+SE1,06/07/2019,Kalmar,AIK,0,1,A,0,0,D,13,11,3,6,1,0
+SE1,06/07/2019,Malmö FF,Örebro,2,1,H,1,1,D,13,11,4,7,0,0
+SE1,07/07/2019,Hammarby,Falkenberg,6,2,H,3,0,H,17,15,14,7,0,1
+SE1,06/07/2019,IFK Göteborg,GIF Sundsvall,2,1,H,2,0,H,19,7,13,2,0,0
+SE1,06/07/2019,Sirius,Östersunds FK,1,1,D,0,0,D,10,9,3,3,0,0
+SE1,08/07/2019,AFC Eskilstuna,Djurgården,1,1,D,0,0,D,13,16,7,8,0,0
+SE1,15/07/2019,Helsingborg,Sirius,1,0,H,0,0,D,5,13,5,10,0,0
+SE1,13/07/2019,Falkenberg,IFK Göteborg,1,1,D,0,0,D,11,11,7,4,0,0
+SE1,15/07/2019,GIF Sundsvall,Hammarby,2,3,A,1,2,A,8,12,5,6,0,0
+SE1,14/07/2019,Östersunds FK,Norrköping,2,1,H,0,0,D,10,11,5,7,0,0
+SE1,14/07/2019,Djurgården,Malmö FF,1,1,D,0,0,D,16,8,4,3,0,0
+SE1,14/07/2019,Häcken,Örebro,3,0,H,0,0,D,20,6,12,3,0,0
+SE1,13/07/2019,AIK,Elfsborg,3,0,H,2,0,H,14,10,7,2,0,0
+SE1,13/07/2019,AFC Eskilstuna,Kalmar,3,1,H,2,0,H,10,12,4,6,0,0
+SE1,20/07/2019,Örebro,Falkenberg,4,0,H,3,0,H,14,10,7,8,0,0
+SE1,21/07/2019,Norrköping,Östersunds FK,3,0,H,2,0,H,16,0,8,0,0,0
+SE1,20/07/2019,GIF Sundsvall,Häcken,0,1,A,0,0,D,6,12,3,8,0,0
+SE1,22/07/2019,Kalmar,Djurgården,0,1,A,0,0,D,7,14,2,6,0,0
+SE1,21/07/2019,Malmö FF,Sirius,1,1,D,1,1,D,18,9,8,7,0,0
+SE1,22/07/2019,Hammarby,Elfsborg,5,2,H,4,1,H,11,14,7,7,0,0
+SE1,21/07/2019,IFK Göteborg,AFC Eskilstuna,1,0,H,1,0,H,11,2,4,0,0,1
+SE1,20/07/2019,AIK,Helsingborg,2,0,H,1,0,H,11,12,4,3,0,0
+SE1,29/07/2019,Helsingborg,Örebro,1,4,A,1,3,A,13,8,4,5,0,0
+SE1,29/07/2019,Elfsborg,Kalmar,2,1,H,0,1,A,17,9,9,3,0,0
+SE1,27/07/2019,Falkenberg,GIF Sundsvall,2,0,H,2,0,H,10,12,7,7,0,0
+SE1,28/07/2019,Östersunds FK,Malmö FF,0,0,D,0,0,D,4,18,2,9,1,0
+SE1,28/07/2019,Djurgården,Häcken,2,0,H,0,0,D,15,6,6,2,0,0
+SE1,28/07/2019,IFK Göteborg,Norrköping,0,0,D,0,0,D,12,7,5,3,0,0
+SE1,27/07/2019,Sirius,AIK,0,2,A,0,0,D,7,11,4,6,0,0
+SE1,27/07/2019,AFC Eskilstuna,Hammarby,1,6,A,1,3,A,9,16,6,12,0,0
+SE1,05/08/2019,Elfsborg,Djurgården,0,1,A,0,0,D,5,13,3,7,0,0
+SE1,05/08/2019,Örebro,IFK Göteborg,2,2,D,0,1,A,18,11,9,5,0,0
+SE1,03/08/2019,Falkenberg,Helsingborg,1,1,D,1,0,H,6,10,5,6,0,0
+SE1,03/08/2019,Östersunds FK,AFC Eskilstuna,1,2,A,1,1,D,10,11,7,4,0,0
+SE1,04/08/2019,Kalmar,Hammarby,2,2,D,0,1,A,14,6,8,4,0,1
+SE1,28/05/2019,Malmö FF,GIF Sundsvall,2,1,H,1,1,D,21,4,10,3,0,0
+SE1,04/08/2019,Häcken,Sirius,4,1,H,3,1,H,18,15,12,9,0,0
+SE1,25/06/2019,AIK,Norrköping,0,2,A,0,1,A,13,13,6,7,1,0
+SE1,11/08/2019,Norrköping,Elfsborg,2,0,H,2,0,H,9,8,6,3,0,0
+SE1,10/08/2019,GIF Sundsvall,Östersunds FK,1,1,D,1,0,H,15,7,9,5,0,0
+SE1,12/08/2019,Kalmar,Örebro,1,1,D,0,0,D,13,7,5,5,0,0
+SE1,11/08/2019,Hammarby,Helsingborg,2,1,H,2,0,H,10,6,5,5,0,0
+SE1,10/08/2019,Djurgården,Sirius,4,0,H,3,0,H,24,5,10,2,0,1
+SE1,12/08/2019,IFK Göteborg,Falkenberg,1,1,D,0,1,A,8,19,3,8,0,0
+SE1,11/08/2019,Häcken,Malmö FF,1,1,D,0,0,D,8,8,5,6,0,0
+SE1,11/08/2019,AFC Eskilstuna,AIK,2,4,A,1,1,D,14,18,7,7,0,0
+SE1,19/08/2019,Helsingborg,IFK Göteborg,1,2,A,1,0,H,9,12,4,6,0,0
+SE1,19/08/2019,Elfsborg,Östersunds FK,4,1,H,3,0,H,9,9,5,3,0,0
+SE1,18/08/2019,Örebro,Häcken,1,2,A,0,1,A,9,15,3,8,0,0
+SE1,18/08/2019,Malmö FF,Falkenberg,5,0,H,2,0,H,15,7,9,5,0,0
+SE1,17/08/2019,Hammarby,GIF Sundsvall,3,0,H,2,0,H,18,7,11,3,0,1
+SE1,19/08/2019,Djurgården,AFC Eskilstuna,3,0,H,2,0,H,18,4,10,0,0,0
+SE1,18/08/2019,AIK,Kalmar,1,2,A,0,2,A,11,10,7,4,0,0
+SE1,18/08/2019,Sirius,Norrköping,0,2,A,0,0,D,12,9,6,5,0,0
+SE1,26/08/2019,Falkenberg,Hammarby,0,2,A,0,2,A,10,16,5,5,0,0
+SE1,25/08/2019,Norrköping,Helsingborg,5,0,H,2,0,H,25,11,11,0,0,0
+SE1,26/08/2019,GIF Sundsvall,Elfsborg,1,2,A,1,1,D,11,19,6,7,0,0
+SE1,25/08/2019,Östersunds FK,AIK,1,3,A,0,0,D,5,16,3,7,1,0
+SE1,25/08/2019,Malmö FF,Djurgården,0,1,A,0,0,D,20,9,7,2,0,0
+SE1,26/08/2019,IFK Göteborg,Kalmar,4,0,H,1,0,H,18,15,12,4,0,0
+SE1,24/08/2019,Sirius,Örebro,3,4,A,0,3,A,14,8,7,6,0,0
+SE1,25/08/2019,AFC Eskilstuna,Häcken,0,2,A,0,0,D,8,25,3,9,0,0
+SE1,30/08/2019,Helsingborg,Östersunds FK,2,0,H,2,0,H,14,16,7,4,0,0
+SE1,31/08/2019,Elfsborg,Sirius,1,1,D,1,0,H,21,7,8,2,0,0
+SE1,31/08/2019,Örebro,AFC Eskilstuna,3,1,H,2,1,H,17,8,7,2,0,0
+SE1,01/09/2019,Norrköping,Hammarby,2,0,H,1,0,H,10,10,5,3,0,1
+SE1,01/09/2019,GIF Sundsvall,IFK Göteborg,0,2,A,0,1,A,26,10,8,5,0,0
+SE1,01/09/2019,Kalmar,Malmö FF,0,5,A,0,2,A,4,26,0,10,1,0
+SE1,01/09/2019,Häcken,Falkenberg,4,1,H,2,1,H,19,9,8,4,0,0
+SE1,01/09/2019,AIK,Djurgården,1,0,H,1,0,H,5,15,3,3,1,0
+SE1,15/09/2019,Malmö FF,Norrköping,1,0,H,0,0,D,14,9,3,3,0,0
+SE1,15/09/2019,Hammarby,IFK Göteborg,6,2,H,3,1,H,20,6,11,4,0,0
+SE1,16/09/2019,Djurgården,Helsingborg,2,0,H,0,0,D,29,6,11,3,0,0
+SE1,15/09/2019,Häcken,AIK,1,2,A,0,1,A,19,9,6,6,0,0
+SE1,16/09/2019,AFC Eskilstuna,Elfsborg,2,2,D,1,0,H,7,28,3,11,0,0
+SE1,22/09/2019,Helsingborg,AFC Eskilstuna,2,1,H,1,0,H,17,10,7,3,0,0
+SE1,22/09/2019,Elfsborg,Malmö FF,0,3,A,0,0,D,8,20,2,6,0,0
+SE1,21/09/2019,Falkenberg,Östersunds FK,1,0,H,1,0,H,15,24,7,7,0,0
+SE1,21/09/2019,Norrköping,Örebro,3,0,H,2,0,H,19,11,8,5,0,0
+SE1,20/09/2019,GIF Sundsvall,Djurgården,1,4,A,1,3,A,7,15,3,10,0,0
+SE1,21/09/2019,Kalmar,Häcken,1,1,D,1,0,H,8,18,4,5,0,0
+SE1,22/09/2019,Hammarby,AIK,2,1,H,1,0,H,10,9,5,3,0,0
+SE1,21/09/2019,IFK Göteborg,Sirius,2,1,H,2,0,H,9,17,4,5,0,0
+SE1,25/09/2019,Örebro,Östersunds FK,2,0,H,0,0,D,7,15,3,6,0,0
+SE1,26/09/2019,Norrköping,AFC Eskilstuna,4,0,H,3,0,H,31,10,16,3,0,0
+SE1,24/09/2019,Kalmar,GIF Sundsvall,0,2,A,0,1,A,15,5,7,4,0,0
+SE1,26/09/2019,Malmö FF,Helsingborg,3,0,H,3,0,H,16,8,6,2,0,0
+SE1,24/09/2019,Djurgården,Falkenberg,1,0,H,0,0,D,21,8,7,0,0,0
+SE1,25/09/2019,Häcken,Elfsborg,1,2,A,1,1,D,25,11,12,7,0,0
+SE1,25/09/2019,AIK,IFK Göteborg,1,0,H,1,0,H,9,13,4,3,0,1
+SE1,25/09/2019,Sirius,Hammarby,1,3,A,0,0,D,12,15,3,6,0,0
+SE1,30/09/2019,Helsingborg,Kalmar,2,0,H,0,0,D,8,10,6,3,0,0
+SE1,29/09/2019,Elfsborg,AIK,1,1,D,0,0,D,10,14,3,5,0,0
+SE1,29/09/2019,Falkenberg,Norrköping,0,2,A,0,1,A,6,23,2,6,0,0
+SE1,29/09/2019,GIF Sundsvall,Sirius,2,1,H,0,0,D,14,6,8,4,0,0
+SE1,30/09/2019,Östersunds FK,Djurgården,1,2,A,1,1,D,17,19,4,5,0,0
+SE1,30/09/2019,Hammarby,Örebro,5,1,H,1,1,D,22,8,11,3,0,0
+SE1,29/09/2019,IFK Göteborg,Häcken,0,0,D,0,0,D,10,17,0,7,0,0
+SE1,29/09/2019,AFC Eskilstuna,Malmö FF,0,1,A,0,0,D,4,18,0,6,0,0
+SE1,06/10/2019,Elfsborg,Falkenberg,4,0,H,1,0,H,15,11,10,4,0,0
+SE1,05/10/2019,GIF Sundsvall,Norrköping,4,4,D,3,0,H,11,18,9,12,0,0
+SE1,06/10/2019,Kalmar,AFC Eskilstuna,0,0,D,0,0,D,9,2,4,2,0,0
+SE1,06/10/2019,Malmö FF,IFK Göteborg,1,0,H,0,0,D,22,5,12,2,0,1
+SE1,06/10/2019,Djurgården,Hammarby,1,2,A,0,0,D,16,6,8,3,0,1
+SE1,06/10/2019,Häcken,Östersunds FK,1,1,D,1,0,H,12,15,5,5,0,0
+SE1,05/10/2019,AIK,Örebro,2,0,H,0,0,D,19,13,7,0,0,0
+SE1,05/10/2019,Sirius,Helsingborg,2,1,H,1,0,H,14,7,4,2,0,0
+SE1,19/10/2019,Helsingborg,Häcken,0,2,A,0,1,A,13,21,6,8,1,0
+SE1,21/10/2019,Örebro,Elfsborg,2,2,D,1,1,D,18,21,4,8,0,0
+SE1,20/10/2019,Falkenberg,AIK,1,5,A,0,2,A,11,20,5,9,1,0
+SE1,20/10/2019,Norrköping,Kalmar,1,0,H,0,0,D,19,18,7,6,0,0
+SE1,19/10/2019,Östersunds FK,Sirius,2,0,H,0,0,D,17,28,5,6,0,0
+SE1,20/10/2019,Hammarby,Malmö FF,2,0,H,1,0,H,8,17,5,9,0,0
+SE1,21/10/2019,IFK Göteborg,Djurgården,0,1,A,0,0,D,8,11,0,4,0,0
+SE1,18/10/2019,AFC Eskilstuna,GIF Sundsvall,1,0,H,0,0,D,12,13,6,4,0,0
+SE1,28/10/2019,Elfsborg,IFK Göteborg,2,0,H,1,0,H,12,14,5,5,0,0
+SE1,26/10/2019,GIF Sundsvall,Helsingborg,1,2,A,0,0,D,26,14,7,5,0,0
+SE1,27/10/2019,Östersunds FK,Hammarby,1,2,A,0,0,D,24,22,10,11,0,0
+SE1,26/10/2019,Kalmar,Falkenberg,2,3,A,0,0,D,17,14,6,6,0,0
+SE1,28/10/2019,Malmö FF,AIK,2,0,H,0,0,D,17,4,6,0,0,0
+SE1,28/10/2019,Djurgården,Örebro,3,0,H,1,0,H,23,6,13,3,0,0
+SE1,27/10/2019,Häcken,Norrköping,0,1,A,0,0,D,18,9,6,4,1,0
+SE1,27/10/2019,AFC Eskilstuna,Sirius,0,0,D,0,0,D,22,13,5,5,0,0
+SE1,02/11/2019,Helsingborg,Elfsborg,1,2,A,0,1,A,17,12,4,4,0,0
+SE1,02/11/2019,Örebro,Malmö FF,0,5,A,0,2,A,9,33,3,8,0,0
+SE1,02/11/2019,Falkenberg,AFC Eskilstuna,1,0,H,0,0,D,20,9,7,3,0,0
+SE1,02/11/2019,Norrköping,Djurgården,2,2,D,2,0,H,6,25,3,4,1,0
+SE1,02/11/2019,Hammarby,Häcken,4,1,H,1,0,H,24,18,6,5,0,0
+SE1,02/11/2019,IFK Göteborg,Östersunds FK,7,1,H,2,1,H,28,12,13,5,0,0
+SE1,02/11/2019,AIK,GIF Sundsvall,2,1,H,0,0,D,13,7,5,2,0,0
+SE1,02/11/2019,Sirius,Kalmar,3,0,H,0,0,D,20,18,8,6,1,0
+SE1,13/09/2019,Sirius,Falkenberg,2,0,H,1,0,H,17,20,4,3,0,0
+SE1,14/09/2019,Örebro,GIF Sundsvall,0,0,D,0,0,D,17,11,4,2,0,0
+SE1,14/09/2019,Östersunds FK,Kalmar,1,2,A,1,0,H,6,25,3,6,1,0

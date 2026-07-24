@@ -1,0 +1,241 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HR,AR
+SE1,01/04/2017,IFK Göteborg,Malmö FF,1,1,D,1,1,D,9,8,3,4,0,0
+SE1,01/04/2017,Halmstad,Östersunds FK,1,0,H,1,0,H,7,12,2,2,0,0
+SE1,02/04/2017,GIF Sundsvall,AFC Eskilstuna,3,1,H,2,1,H,14,14,8,7,0,0
+SE1,02/04/2017,AIK,Häcken,0,0,D,0,0,D,8,14,0,7,0,1
+SE1,02/04/2017,Norrköping,Hammarby,2,1,H,2,0,H,15,18,7,8,0,1
+SE1,03/04/2017,Kalmar,Elfsborg,1,5,A,0,0,D,12,14,5,7,0,0
+SE1,03/04/2017,Djurgården,Sirius,0,2,A,0,0,D,16,11,5,6,0,0
+SE1,03/04/2017,Örebro,Jönköpings Södra,2,1,H,1,0,H,14,14,5,4,0,1
+SE1,08/04/2017,AFC Eskilstuna,Örebro,2,2,D,0,0,D,11,12,3,3,0,0
+SE1,09/04/2017,Östersunds FK,Norrköping,1,0,H,1,0,H,18,6,6,3,0,0
+SE1,09/04/2017,Hammarby,Kalmar,1,1,D,0,1,A,13,12,5,6,0,0
+SE1,09/04/2017,Sirius,IFK Göteborg,0,2,A,0,0,D,6,16,3,8,0,0
+SE1,09/04/2017,Jönköpings Södra,Halmstad,2,2,D,1,0,H,15,6,9,5,0,1
+SE1,09/04/2017,Häcken,Djurgården,0,0,D,0,0,D,10,11,5,9,0,0
+SE1,10/04/2017,Elfsborg,AIK,1,2,A,1,1,D,11,14,2,4,0,0
+SE1,11/04/2017,Malmö FF,GIF Sundsvall,2,0,H,1,0,H,18,4,10,2,0,0
+SE1,16/04/2017,Halmstad,Malmö FF,0,3,A,0,2,A,8,15,4,6,1,0
+SE1,16/04/2017,Örebro,Östersunds FK,2,1,H,1,0,H,11,12,7,5,0,0
+SE1,16/04/2017,GIF Sundsvall,Häcken,1,2,A,0,2,A,8,18,6,6,0,0
+SE1,16/04/2017,Djurgården,Elfsborg,3,0,H,2,0,H,12,12,5,4,0,0
+SE1,17/04/2017,Kalmar,Jönköpings Södra,1,3,A,1,3,A,15,9,5,7,0,0
+SE1,17/04/2017,AIK,Hammarby,1,2,A,1,1,D,14,7,4,4,0,0
+SE1,17/04/2017,Norrköping,Sirius,0,2,A,0,0,D,20,15,7,9,0,0
+SE1,17/04/2017,IFK Göteborg,AFC Eskilstuna,1,1,D,0,0,D,15,9,7,2,0,0
+SE1,20/04/2017,Elfsborg,Örebro,3,0,H,1,0,H,12,11,9,4,0,0
+SE1,22/04/2017,Jönköpings Södra,AIK,2,1,H,1,1,D,6,13,3,3,0,0
+SE1,23/04/2017,Hammarby,GIF Sundsvall,0,0,D,0,0,D,17,5,7,0,0,0
+SE1,23/04/2017,Häcken,Norrköping,1,2,A,1,0,H,16,14,6,4,0,0
+SE1,23/04/2017,AFC Eskilstuna,Halmstad,0,0,D,0,0,D,8,10,3,4,0,0
+SE1,23/04/2017,Östersunds FK,IFK Göteborg,1,1,D,0,0,D,12,12,6,4,0,0
+SE1,24/04/2017,Sirius,Kalmar,3,0,H,2,0,H,15,8,6,3,0,0
+SE1,24/04/2017,Malmö FF,Djurgården,3,2,H,1,1,D,12,10,6,3,0,0
+SE1,26/04/2017,AFC Eskilstuna,Östersunds FK,1,3,A,0,3,A,9,13,4,6,1,0
+SE1,26/04/2017,GIF Sundsvall,Elfsborg,1,1,D,0,0,D,13,19,5,9,0,0
+SE1,26/04/2017,IFK Göteborg,Hammarby,1,1,D,0,1,A,12,10,5,3,0,0
+SE1,26/04/2017,Örebro,Häcken,0,0,D,0,0,D,6,25,2,8,0,0
+SE1,27/04/2017,Halmstad,Djurgården,0,1,A,0,0,D,17,7,5,5,0,0
+SE1,27/04/2017,Norrköping,Jönköpings Södra,3,0,H,1,0,H,14,8,6,4,0,0
+SE1,27/04/2017,Kalmar,Malmö FF,0,0,D,0,0,D,5,14,3,2,0,0
+SE1,27/04/2017,AIK,Sirius,1,0,H,1,0,H,15,10,5,2,0,0
+SE1,29/04/2017,Hammarby,AFC Eskilstuna,4,0,H,0,0,D,19,6,10,2,0,1
+SE1,30/04/2017,AIK,GIF Sundsvall,0,0,D,0,0,D,22,5,6,3,0,0
+SE1,01/05/2017,Malmö FF,Örebro,2,1,H,0,0,D,23,10,11,5,0,0
+SE1,01/05/2017,Kalmar,Halmstad,2,0,H,1,0,H,16,13,6,7,0,0
+SE1,01/05/2017,Sirius,Jönköpings Södra,1,1,D,0,0,D,11,7,7,5,0,0
+SE1,01/05/2017,Djurgården,Norrköping,3,3,D,1,2,A,20,10,10,7,0,0
+SE1,02/05/2017,Häcken,IFK Göteborg,4,0,H,3,0,H,16,26,8,9,1,0
+SE1,02/05/2017,Elfsborg,Östersunds FK,4,4,D,2,0,H,12,22,8,11,1,0
+SE1,05/05/2017,Häcken,Sirius,2,2,D,1,0,H,10,11,7,6,0,0
+SE1,06/05/2017,Halmstad,AIK,0,1,A,0,1,A,8,10,2,5,0,1
+SE1,07/05/2017,Östersunds FK,Hammarby,2,1,H,0,0,D,17,8,8,3,1,0
+SE1,07/05/2017,IFK Göteborg,Kalmar,3,0,H,2,0,H,23,12,6,4,0,0
+SE1,07/05/2017,Jönköpings Södra,AFC Eskilstuna,1,0,H,0,0,D,22,4,9,2,0,1
+SE1,07/05/2017,Örebro,Djurgården,0,4,A,0,2,A,11,19,5,11,0,0
+SE1,08/05/2017,Norrköping,GIF Sundsvall,0,0,D,0,0,D,14,12,9,7,0,0
+SE1,08/05/2017,Elfsborg,Malmö FF,1,2,A,0,0,D,11,21,6,12,0,0
+SE1,12/05/2017,AFC Eskilstuna,Norrköping,1,2,A,0,2,A,9,17,4,7,0,0
+SE1,13/05/2017,Kalmar,Häcken,0,1,A,0,0,D,5,7,5,7,1,0
+SE1,13/05/2017,AIK,Örebro,1,0,H,1,0,H,12,11,9,7,0,0
+SE1,14/05/2017,Halmstad,Hammarby,1,2,A,0,2,A,11,10,5,5,0,0
+SE1,14/05/2017,GIF Sundsvall,Jönköpings Södra,0,0,D,0,0,D,7,6,3,2,0,0
+SE1,14/05/2017,Sirius,Elfsborg,4,1,H,1,1,D,16,7,9,3,0,1
+SE1,14/05/2017,Malmö FF,Östersunds FK,2,1,H,0,0,D,14,12,7,6,2,1
+SE1,15/05/2017,Djurgården,IFK Göteborg,1,0,H,0,0,D,13,16,3,4,0,0
+SE1,16/05/2017,Norrköping,Kalmar,2,0,H,1,0,H,17,6,8,3,0,0
+SE1,17/05/2017,Östersunds FK,Sirius,0,0,D,0,0,D,11,5,6,3,0,0
+SE1,17/05/2017,Hammarby,Malmö FF,1,1,D,0,0,D,7,18,3,3,0,0
+SE1,17/05/2017,Häcken,Halmstad,2,1,H,1,1,D,18,11,8,5,0,0
+SE1,17/05/2017,Örebro,GIF Sundsvall,0,2,A,0,1,A,11,15,4,6,1,0
+SE1,18/05/2017,Jönköpings Södra,Djurgården,1,1,D,1,0,H,15,8,6,5,0,0
+SE1,18/05/2017,Elfsborg,AFC Eskilstuna,2,1,H,0,1,A,23,7,7,2,0,0
+SE1,20/05/2017,Östersunds FK,Kalmar,2,1,H,1,0,H,19,7,8,3,0,0
+SE1,20/05/2017,Halmstad,Örebro,0,0,D,0,0,D,19,12,7,5,0,0
+SE1,21/05/2017,AFC Eskilstuna,Häcken,0,0,D,0,0,D,9,13,4,7,0,0
+SE1,21/05/2017,Sirius,Hammarby,1,1,D,1,1,D,6,11,5,5,0,0
+SE1,21/05/2017,Malmö FF,Norrköping,1,2,A,0,0,D,19,7,7,4,0,0
+SE1,22/05/2017,GIF Sundsvall,IFK Göteborg,0,4,A,0,3,A,17,13,6,8,0,0
+SE1,22/05/2017,Elfsborg,Jönköpings Södra,3,0,H,1,0,H,16,10,6,4,0,0
+SE1,22/05/2017,Djurgården,AIK,0,1,A,0,1,A,22,13,8,3,0,0
+SE1,27/05/2017,Kalmar,GIF Sundsvall,3,0,H,3,0,H,11,11,7,3,0,0
+SE1,27/05/2017,Djurgården,AFC Eskilstuna,4,1,H,1,0,H,17,13,7,5,0,0
+SE1,27/05/2017,Norrköping,Halmstad,3,2,H,1,1,D,10,15,7,5,0,0
+SE1,28/05/2017,Hammarby,Jönköpings Södra,2,2,D,1,0,H,6,20,4,6,1,0
+SE1,28/05/2017,IFK Göteborg,Elfsborg,1,1,D,1,1,D,9,14,3,4,0,0
+SE1,29/05/2017,Häcken,Östersunds FK,0,1,A,0,1,A,15,13,5,4,0,0
+SE1,29/05/2017,AIK,Malmö FF,0,1,A,0,0,D,8,19,4,6,0,0
+SE1,29/05/2017,Örebro,Sirius,2,1,H,1,0,H,20,14,8,5,0,0
+SE1,01/06/2017,Norrköping,AIK,0,0,D,0,0,D,8,8,0,5,0,0
+SE1,02/06/2017,Elfsborg,Häcken,2,0,H,1,0,H,14,21,7,5,0,0
+SE1,03/06/2017,Östersunds FK,GIF Sundsvall,3,1,H,2,0,H,12,8,6,3,0,0
+SE1,03/06/2017,Kalmar,Örebro,0,1,A,0,0,D,18,12,8,3,0,0
+SE1,03/06/2017,Jönköpings Södra,Malmö FF,1,2,A,0,1,A,7,16,5,6,0,0
+SE1,04/06/2017,AFC Eskilstuna,AIK,1,3,A,1,1,D,11,15,4,6,0,0
+SE1,04/06/2017,Hammarby,Djurgården,3,1,H,0,1,A,10,10,5,5,0,0
+SE1,04/06/2017,Sirius,Halmstad,2,1,H,0,1,A,13,14,4,6,0,0
+SE1,04/06/2017,Norrköping,IFK Göteborg,2,0,H,1,0,H,19,9,8,3,0,0
+SE1,01/07/2017,GIF Sundsvall,Sirius,1,2,A,1,0,H,15,13,5,5,0,0
+SE1,01/07/2017,Malmö FF,AFC Eskilstuna,3,2,H,1,2,A,26,5,8,4,0,0
+SE1,01/07/2017,Halmstad,Elfsborg,1,1,D,0,0,D,12,18,6,6,0,0
+SE1,02/07/2017,Jönköpings Södra,IFK Göteborg,0,2,A,0,1,A,10,12,6,5,0,0
+SE1,02/07/2017,AIK,Östersunds FK,2,2,D,1,1,D,16,6,4,4,0,0
+SE1,02/07/2017,Örebro,Norrköping,4,2,H,2,2,D,10,13,6,6,0,0
+SE1,03/07/2017,Häcken,Hammarby,2,0,H,1,0,H,19,14,7,3,0,0
+SE1,03/07/2017,Djurgården,Kalmar,4,1,H,1,0,H,16,5,9,2,0,0
+SE1,08/07/2017,Sirius,AFC Eskilstuna,1,0,H,0,0,D,13,16,7,8,0,0
+SE1,08/07/2017,Hammarby,Örebro,3,1,H,1,0,H,20,10,7,3,0,0
+SE1,08/07/2017,Häcken,Malmö FF,0,1,A,0,1,A,15,15,7,4,2,0
+SE1,09/07/2017,Norrköping,Elfsborg,1,3,A,0,2,A,22,17,6,8,0,0
+SE1,09/07/2017,Östersunds FK,Jönköpings Södra,1,1,D,0,0,D,21,8,6,4,0,0
+SE1,09/07/2017,Kalmar,AIK,0,1,A,0,0,D,8,5,5,3,0,0
+SE1,10/07/2017,IFK Göteborg,Halmstad,1,1,D,0,0,D,16,8,3,5,0,0
+SE1,10/07/2017,Djurgården,GIF Sundsvall,2,1,H,1,1,D,15,5,8,2,0,1
+SE1,15/07/2017,AFC Eskilstuna,Kalmar,2,1,H,0,1,A,23,14,7,6,0,0
+SE1,15/07/2017,GIF Sundsvall,Halmstad,1,0,H,0,0,D,15,9,4,4,0,0
+SE1,15/07/2017,Malmö FF,Sirius,3,3,D,2,0,H,22,8,7,5,0,0
+SE1,16/07/2017,Örebro,IFK Göteborg,4,2,H,4,0,H,10,13,8,6,0,0
+SE1,16/07/2017,Östersunds FK,Djurgården,2,1,H,1,1,D,10,14,7,5,0,0
+SE1,16/07/2017,AIK,Norrköping,1,0,H,0,0,D,14,7,6,3,0,0
+SE1,17/07/2017,Jönköpings Södra,Häcken,0,1,A,0,0,D,21,12,6,5,0,0
+SE1,17/07/2017,Elfsborg,Hammarby,3,0,H,3,0,H,10,11,6,3,0,0
+SE1,22/07/2017,Halmstad,GIF Sundsvall,2,2,D,2,2,D,10,12,9,5,1,0
+SE1,22/07/2017,Malmö FF,Jönköpings Södra,2,0,H,0,0,D,25,6,9,3,0,0
+SE1,22/07/2017,Sirius,Häcken,2,2,D,0,1,A,16,11,9,7,0,1
+SE1,23/07/2017,Djurgården,Östersunds FK,3,0,H,1,0,H,16,13,6,4,0,0
+SE1,23/07/2017,IFK Göteborg,Örebro,2,2,D,0,0,D,10,14,6,7,1,0
+SE1,23/07/2017,Kalmar,AFC Eskilstuna,2,0,H,1,0,H,17,5,4,0,0,0
+SE1,24/07/2017,Hammarby,Elfsborg,2,1,H,1,1,D,12,13,7,6,0,0
+SE1,29/07/2017,Jönköpings Södra,Hammarby,1,0,H,1,0,H,7,10,3,4,0,1
+SE1,29/07/2017,Elfsborg,Sirius,0,2,A,0,0,D,14,16,5,7,0,0
+SE1,29/07/2017,GIF Sundsvall,Malmö FF,0,1,A,0,0,D,5,14,2,3,0,0
+SE1,30/07/2017,Östersunds FK,Halmstad,0,0,D,0,0,D,14,8,5,2,0,0
+SE1,30/07/2017,IFK Göteborg,Norrköping,4,1,H,2,1,H,13,6,8,3,0,0
+SE1,30/07/2017,AIK,Kalmar,0,1,A,0,0,D,15,14,4,5,0,0
+SE1,31/07/2017,AFC Eskilstuna,Djurgården,1,2,A,0,1,A,11,17,3,7,0,0
+SE1,31/07/2017,Häcken,Örebro,1,1,D,1,1,D,15,13,6,7,0,0
+SE1,05/08/2017,Halmstad,Jönköpings Södra,6,1,H,4,0,H,13,11,8,3,0,0
+SE1,05/08/2017,Örebro,Elfsborg,2,2,D,2,0,H,19,22,6,8,0,0
+SE1,06/08/2017,Hammarby,Häcken,1,2,A,0,0,D,7,6,4,3,0,0
+SE1,06/08/2017,GIF Sundsvall,Östersunds FK,1,1,D,0,0,D,13,12,7,7,0,0
+SE1,06/08/2017,Kalmar,IFK Göteborg,1,0,H,0,0,D,10,9,4,4,0,0
+SE1,06/08/2017,Sirius,AIK,1,4,A,0,3,A,11,11,5,9,0,0
+SE1,07/08/2017,Norrköping,AFC Eskilstuna,1,0,H,0,0,D,13,17,3,7,0,0
+SE1,07/08/2017,Djurgården,Malmö FF,0,1,A,0,0,D,16,12,7,2,0,1
+SE1,10/08/2017,IFK Göteborg,AIK,2,1,H,0,1,A,10,9,4,3,0,0
+SE1,11/08/2017,Malmö FF,Kalmar,6,0,H,2,0,H,21,9,10,5,0,1
+SE1,12/08/2017,Halmstad,Sirius,0,3,A,0,1,A,17,13,8,8,0,0
+SE1,13/08/2017,Hammarby,Östersunds FK,2,2,D,1,1,D,11,14,4,3,0,0
+SE1,13/08/2017,AIK,AFC Eskilstuna,1,1,D,0,1,A,21,7,8,6,0,0
+SE1,13/08/2017,Jönköpings Södra,Örebro,1,2,A,1,1,D,10,9,4,5,0,0
+SE1,13/08/2017,Norrköping,Djurgården,0,1,A,0,0,D,23,15,5,5,0,0
+SE1,14/08/2017,Häcken,GIF Sundsvall,2,0,H,1,0,H,13,19,8,7,0,0
+SE1,14/08/2017,Elfsborg,IFK Göteborg,1,2,A,1,1,D,12,10,5,5,0,0
+SE1,18/08/2017,Jönköpings Södra,Elfsborg,2,2,D,0,1,A,13,6,4,4,0,0
+SE1,19/08/2017,AFC Eskilstuna,Malmö FF,3,1,H,3,0,H,12,22,7,6,0,0
+SE1,20/08/2017,Östersunds FK,AIK,0,3,A,0,1,A,13,7,3,4,1,0
+SE1,20/08/2017,Djurgården,Halmstad,2,1,H,1,1,D,20,7,10,2,0,0
+SE1,20/08/2017,Sirius,Norrköping,0,1,A,0,1,A,14,10,6,6,0,0
+SE1,20/08/2017,IFK Göteborg,Häcken,1,1,D,1,1,D,14,16,4,4,0,0
+SE1,21/08/2017,GIF Sundsvall,Kalmar,1,3,A,0,1,A,18,8,4,5,0,0
+SE1,21/08/2017,Örebro,Hammarby,0,3,A,0,1,A,10,12,2,4,0,0
+SE1,26/08/2017,AFC Eskilstuna,Hammarby,0,0,D,0,0,D,8,15,3,3,0,0
+SE1,27/08/2017,Norrköping,Östersunds FK,0,2,A,0,0,D,13,15,5,8,0,0
+SE1,27/08/2017,Häcken,Jönköpings Södra,3,1,H,2,0,H,13,11,9,4,0,0
+SE1,27/08/2017,Kalmar,Sirius,4,2,H,2,1,H,14,18,7,8,0,0
+SE1,27/08/2017,AIK,Djurgården,1,1,D,1,0,H,10,14,4,7,0,0
+SE1,27/08/2017,GIF Sundsvall,Örebro,2,1,H,0,0,D,21,9,9,5,1,0
+SE1,27/08/2017,Elfsborg,Halmstad,1,0,H,0,0,D,19,16,5,8,0,0
+SE1,27/08/2017,Malmö FF,IFK Göteborg,2,2,D,0,1,A,17,10,10,6,0,1
+SE1,09/09/2017,Östersunds FK,AFC Eskilstuna,3,0,H,1,0,H,20,12,12,7,0,0
+SE1,10/09/2017,Halmstad,Häcken,0,3,A,0,1,A,17,16,6,7,0,0
+SE1,10/09/2017,Hammarby,AIK,1,1,D,1,1,D,11,14,5,9,0,0
+SE1,10/09/2017,Elfsborg,Kalmar,2,2,D,1,0,H,11,16,5,9,0,0
+SE1,10/09/2017,Örebro,Malmö FF,2,1,H,0,0,D,10,10,5,3,0,0
+SE1,10/09/2017,Sirius,GIF Sundsvall,0,1,A,0,0,D,17,14,6,7,0,0
+SE1,10/09/2017,Jönköpings Södra,Norrköping,1,2,A,1,1,D,6,9,5,5,0,0
+SE1,11/09/2017,IFK Göteborg,Djurgården,1,3,A,1,1,D,10,18,5,9,0,0
+SE1,16/09/2017,Häcken,Elfsborg,3,0,H,2,0,H,8,2,8,2,0,1
+SE1,15/09/2017,Kalmar,Norrköping,1,1,D,1,0,H,5,18,3,10,0,0
+SE1,16/09/2017,IFK Göteborg,Jönköpings Södra,1,1,D,0,1,A,17,6,6,4,0,0
+SE1,16/09/2017,Djurgården,Örebro,4,1,H,2,0,H,16,10,6,6,0,0
+SE1,17/09/2017,Sirius,Östersunds FK,0,5,A,0,3,A,12,11,3,8,0,0
+SE1,17/09/2017,AIK,Halmstad,4,1,H,4,0,H,29,10,18,3,0,0
+SE1,17/09/2017,Malmö FF,Hammarby,4,0,H,1,0,H,21,5,9,3,0,0
+SE1,18/09/2017,AFC Eskilstuna,GIF Sundsvall,1,2,A,0,1,A,13,16,4,7,0,0
+SE1,19/09/2017,Norrköping,Häcken,4,1,H,2,0,H,9,17,5,6,0,0
+SE1,19/09/2017,Elfsborg,Djurgården,2,2,D,0,1,A,14,13,6,6,0,0
+SE1,20/09/2017,Halmstad,Kalmar,1,1,D,0,1,A,18,8,9,3,0,1
+SE1,20/09/2017,Östersunds FK,Malmö FF,2,2,D,0,1,A,18,16,9,8,1,0
+SE1,20/09/2017,Jönköpings Södra,Sirius,3,1,H,2,0,H,10,17,6,7,0,0
+SE1,20/09/2017,Hammarby,IFK Göteborg,2,1,H,0,0,D,12,20,6,8,0,0
+SE1,21/09/2017,Örebro,AFC Eskilstuna,2,3,A,2,1,H,14,21,5,7,0,0
+SE1,21/09/2017,GIF Sundsvall,AIK,0,0,D,0,0,D,9,8,4,4,0,0
+SE1,23/09/2017,Halmstad,Norrköping,2,1,H,1,0,H,11,15,5,9,0,0
+SE1,24/09/2017,Kalmar,Östersunds FK,2,1,H,1,1,D,15,8,10,4,0,0
+SE1,24/09/2017,Djurgården,Hammarby,1,1,D,0,1,A,21,16,6,7,0,0
+SE1,24/09/2017,Jönköpings Södra,GIF Sundsvall,2,2,D,1,1,D,13,10,8,6,0,0
+SE1,24/09/2017,Häcken,AIK,1,6,A,1,4,A,12,16,5,11,0,0
+SE1,25/09/2017,AFC Eskilstuna,IFK Göteborg,1,0,H,0,0,D,15,12,9,3,0,0
+SE1,25/09/2017,Sirius,Örebro,3,4,A,0,2,A,12,11,6,8,0,0
+SE1,25/09/2017,Malmö FF,Elfsborg,6,0,H,2,0,H,23,2,12,0,0,1
+SE1,29/09/2017,IFK Göteborg,Sirius,4,0,H,2,0,H,20,17,9,6,0,0
+SE1,30/09/2017,AFC Eskilstuna,Jönköpings Södra,1,1,D,1,0,H,9,13,5,4,0,0
+SE1,01/10/2017,Östersunds FK,Häcken,0,0,D,0,0,D,19,16,8,5,0,0
+SE1,01/10/2017,GIF Sundsvall,Djurgården,0,5,A,0,2,A,9,13,2,7,0,0
+SE1,01/10/2017,Malmö FF,Halmstad,2,0,H,0,0,D,26,7,11,0,0,0
+SE1,01/10/2017,Hammarby,Norrköping,0,2,A,0,2,A,18,16,8,6,0,0
+SE1,01/10/2017,AIK,Elfsborg,5,2,H,3,1,H,16,11,10,7,0,0
+SE1,01/10/2017,Örebro,Kalmar,1,0,H,1,0,H,9,16,4,6,0,0
+SE1,14/10/2017,Halmstad,IFK Göteborg,1,2,A,1,0,H,12,24,4,9,0,0
+SE1,14/10/2017,Östersunds FK,Örebro,3,0,H,3,0,H,10,17,5,8,0,0
+SE1,14/10/2017,Häcken,AFC Eskilstuna,3,0,H,1,0,H,33,4,15,2,0,1
+SE1,15/10/2017,AIK,Jönköpings Södra,2,0,H,0,0,D,16,4,9,2,0,0
+SE1,15/10/2017,Sirius,Djurgården,2,0,H,1,0,H,16,24,7,8,0,0
+SE1,15/10/2017,Elfsborg,GIF Sundsvall,2,1,H,0,1,A,8,12,4,8,1,0
+SE1,16/10/2017,Norrköping,Malmö FF,1,3,A,1,0,H,12,21,6,6,0,0
+SE1,16/10/2017,Kalmar,Hammarby,2,0,H,0,0,D,18,5,7,3,0,0
+SE1,20/10/2017,Örebro,Halmstad,0,1,A,0,0,D,10,8,4,5,0,0
+SE1,21/10/2017,AFC Eskilstuna,Elfsborg,2,3,A,1,1,D,17,16,6,6,0,0
+SE1,22/10/2017,GIF Sundsvall,Norrköping,2,2,D,1,0,H,12,18,5,11,0,0
+SE1,22/10/2017,IFK Göteborg,Östersunds FK,0,1,A,0,1,A,11,17,5,8,0,0
+SE1,22/10/2017,Djurgården,Häcken,1,1,D,1,1,D,17,17,6,9,0,0
+SE1,23/10/2017,Jönköpings Södra,Kalmar,2,0,H,1,0,H,12,12,9,5,0,0
+SE1,23/10/2017,Hammarby,Sirius,3,3,D,2,1,H,22,14,9,7,0,0
+SE1,23/10/2017,Malmö FF,AIK,0,0,D,0,0,D,19,10,8,6,0,0
+SE1,28/10/2017,Halmstad,AFC Eskilstuna,1,1,D,1,1,D,11,11,3,4,0,0
+SE1,28/10/2017,Sirius,Malmö FF,0,4,A,0,2,A,13,9,5,5,0,0
+SE1,28/10/2017,Östersunds FK,Elfsborg,4,1,H,3,0,H,12,11,10,6,0,0
+SE1,28/10/2017,GIF Sundsvall,Hammarby,1,4,A,1,1,D,22,5,9,3,0,0
+SE1,28/10/2017,Norrköping,Örebro,2,0,H,2,0,H,14,7,4,2,0,0
+SE1,28/10/2017,Häcken,Kalmar,2,0,H,0,0,D,9,9,5,3,1,0
+SE1,28/10/2017,Djurgården,Jönköpings Södra,0,0,D,0,0,D,11,9,5,3,0,0
+SE1,30/10/2017,AIK,IFK Göteborg,2,1,H,2,0,H,18,10,7,4,0,0
+SE1,05/11/2017,AFC Eskilstuna,Sirius,1,3,A,0,0,D,8,19,3,6,0,0
+SE1,05/11/2017,Jönköpings Södra,Östersunds FK,0,0,D,0,0,D,20,13,10,6,0,0
+SE1,05/11/2017,Hammarby,Halmstad,1,3,A,1,1,D,12,18,7,7,0,0
+SE1,05/11/2017,IFK Göteborg,GIF Sundsvall,0,3,A,0,2,A,10,10,4,8,0,0
+SE1,05/11/2017,Elfsborg,Norrköping,3,3,D,1,1,D,15,13,6,7,0,0
+SE1,05/11/2017,Malmö FF,Häcken,1,2,A,0,1,A,18,13,8,8,0,0
+SE1,05/11/2017,Kalmar,Djurgården,0,2,A,0,2,A,15,13,5,5,0,0
+SE1,05/11/2017,Örebro,AIK,1,2,A,0,2,A,14,12,7,5,0,0

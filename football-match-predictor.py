@@ -12,6 +12,7 @@ from sklearn.metrics import f1_score
 from os import path, makedirs, walk
 from joblib import dump, load
 import json
+from pathlib import Path
 
 # Utility Functions
 
@@ -73,23 +74,7 @@ def derive_clean_sheet(src):
 
 # Data gathering
 
-en_data_folder = 'english-premier-league_zip'
-es_data_folder = 'spanish-la-liga_zip'
-fr_data_folder = 'french-ligue-1_zip'
-ge_data_folder = 'german-bundesliga_zip'
-it_data_folder = 'italian-serie-a_zip'
-
-# data_folders = [es_data_folder]
-data_folders = [en_data_folder, es_data_folder,
-                fr_data_folder, ge_data_folder, it_data_folder]
-
-season_range = (9, 18)
-
-data_files = []
-for data_folder in data_folders:
-    for season in range(season_range[0], season_range[1] + 1):
-        data_files.append(
-            'data/{}/data/season-{:02d}{:02d}_csv.csv'.format(data_folder, season, season + 1))
+data_files = sorted(Path('data').glob('*/data/season-*_csv.csv'))
 
 data_frames = []
 

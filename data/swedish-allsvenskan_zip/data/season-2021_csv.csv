@@ -1,0 +1,241 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HR,AR
+SE1,12/04/2021,AIK,Degerfors,2,0,H,1,0,H,19,9,8,4,0,0
+SE1,11/04/2021,Halmstad,Häcken,1,0,H,0,0,D,14,8,5,2,0,0
+SE1,11/04/2021,Elfsborg,Djurgården,0,2,A,0,1,A,9,6,5,4,0,0
+SE1,11/04/2021,Norrköping,Sirius,1,1,D,1,0,H,14,8,6,5,0,0
+SE1,12/04/2021,Kalmar,Östersunds FK,0,0,D,0,0,D,12,6,4,0,0,0
+SE1,10/04/2021,Malmö FF,Hammarby,3,2,H,2,2,D,19,6,4,4,0,0
+SE1,11/04/2021,Mjällby,Varberg,0,0,D,0,0,D,13,8,2,3,0,0
+SE1,10/04/2021,Örebro,IFK Göteborg,0,0,D,0,0,D,12,12,3,3,0,0
+SE1,18/04/2021,Häcken,Malmö FF,1,2,A,0,2,A,13,14,6,8,0,0
+SE1,18/04/2021,Degerfors,Kalmar,0,1,A,0,1,A,3,17,0,6,0,0
+SE1,18/04/2021,Djurgården,Norrköping,1,0,H,0,0,D,21,9,3,0,0,0
+SE1,17/04/2021,Hammarby,Mjällby,2,0,H,1,0,H,13,17,3,6,0,0
+SE1,19/04/2021,IFK Göteborg,AIK,2,0,H,2,0,H,13,15,6,5,0,0
+SE1,18/04/2021,Sirius,Halmstad,1,0,H,0,0,D,11,8,4,4,0,0
+SE1,19/04/2021,Varberg,Elfsborg,1,3,A,0,2,A,20,16,5,5,0,0
+SE1,18/04/2021,Östersunds FK,Örebro,5,0,H,3,0,H,7,10,6,3,0,0
+SE1,25/04/2021,AIK,Hammarby,2,0,H,1,0,H,12,8,4,2,0,0
+SE1,24/04/2021,Häcken,Sirius,1,2,A,0,1,A,26,16,9,6,0,0
+SE1,26/04/2021,Elfsborg,Mjällby,1,0,H,1,0,H,17,12,9,5,0,0
+SE1,26/04/2021,IFK Göteborg,Degerfors,2,3,A,0,2,A,17,14,6,9,0,0
+SE1,25/04/2021,Norrköping,Halmstad,2,1,H,0,1,A,19,8,9,2,0,0
+SE1,25/04/2021,Kalmar,Örebro,1,0,H,0,0,D,13,8,4,4,0,0
+SE1,25/04/2021,Malmö FF,Östersunds FK,1,1,D,0,0,D,23,4,9,2,0,1
+SE1,25/04/2021,Varberg,Djurgården,1,3,A,1,2,A,12,10,5,6,0,0
+SE1,02/05/2021,AIK,Elfsborg,1,0,H,0,0,D,12,18,6,3,0,0
+SE1,03/05/2021,Djurgården,Malmö FF,3,1,H,1,0,H,17,7,5,3,0,0
+SE1,02/05/2021,Halmstad,IFK Göteborg,1,1,D,1,0,H,13,6,6,2,0,0
+SE1,01/05/2021,Hammarby,Häcken,1,1,D,0,1,A,9,6,5,3,0,0
+SE1,01/05/2021,Sirius,Kalmar,1,1,D,0,0,D,5,13,5,6,0,0
+SE1,03/05/2021,Mjällby,Degerfors,1,0,H,0,0,D,15,7,2,2,0,0
+SE1,02/05/2021,Örebro,Norrköping,0,3,A,0,1,A,11,26,4,14,0,0
+SE1,02/05/2021,Östersunds FK,Varberg,1,2,A,1,1,D,9,19,3,8,0,0
+SE1,09/05/2021,Degerfors,Djurgården,2,0,H,0,0,D,8,19,4,6,0,0
+SE1,08/05/2021,Hammarby,Sirius,3,2,H,1,0,H,18,11,9,4,0,0
+SE1,08/05/2021,Elfsborg,Kalmar,2,2,D,1,0,H,11,14,4,8,0,0
+SE1,08/05/2021,IFK Göteborg,Häcken,1,1,D,0,0,D,19,12,9,3,0,0
+SE1,10/05/2021,Norrköping,AIK,2,0,H,0,0,D,12,19,5,6,0,0
+SE1,09/05/2021,Malmö FF,Varberg,3,2,H,1,1,D,11,9,5,3,0,0
+SE1,09/05/2021,Mjällby,Östersunds FK,1,0,H,1,0,H,11,13,4,6,0,0
+SE1,08/05/2021,Örebro,Halmstad,1,0,H,0,0,D,8,15,5,3,0,0
+SE1,13/05/2021,AIK,Malmö FF,1,1,D,0,1,A,13,9,5,6,0,0
+SE1,12/05/2021,Häcken,Örebro,2,3,A,2,0,H,22,10,7,7,0,0
+SE1,12/05/2021,Djurgården,Östersunds FK,2,0,H,1,0,H,23,5,8,0,0,0
+SE1,13/05/2021,Halmstad,Mjällby,1,1,D,1,0,H,12,26,2,7,0,0
+SE1,13/05/2021,Norrköping,Degerfors,1,1,D,1,0,H,20,11,6,4,0,0
+SE1,12/05/2021,Sirius,Elfsborg,0,2,A,0,1,A,14,19,5,9,0,0
+SE1,12/05/2021,Kalmar,IFK Göteborg,0,0,D,0,0,D,7,5,2,2,0,0
+SE1,12/05/2021,Varberg,Hammarby,1,3,A,1,0,H,20,14,8,5,0,0
+SE1,18/05/2021,Degerfors,Örebro,3,0,H,2,0,H,18,18,8,5,0,0
+SE1,16/05/2021,Hammarby,Djurgården,2,2,D,0,1,A,10,17,5,5,0,0
+SE1,17/05/2021,Elfsborg,Halmstad,2,3,A,2,1,H,8,12,3,7,0,0
+SE1,17/05/2021,IFK Göteborg,Sirius,2,2,D,1,1,D,13,14,5,9,0,0
+SE1,17/05/2021,Malmö FF,Kalmar,3,1,H,2,0,H,17,9,8,5,0,0
+SE1,17/05/2021,Mjällby,Häcken,1,1,D,0,0,D,17,16,5,9,0,0
+SE1,17/05/2021,Varberg,Norrköping,2,1,H,2,0,H,15,10,4,4,0,0
+SE1,17/05/2021,Östersunds FK,AIK,1,2,A,0,2,A,7,8,3,4,0,0
+SE1,22/05/2021,AIK,Mjällby,2,2,D,1,0,H,18,6,5,4,0,0
+SE1,23/05/2021,Häcken,Varberg,3,1,H,3,0,H,27,7,11,2,0,1
+SE1,23/05/2021,Djurgården,IFK Göteborg,0,0,D,0,0,D,15,10,3,3,0,0
+SE1,23/05/2021,Halmstad,Degerfors,0,0,D,0,0,D,16,6,3,0,0,0
+SE1,24/05/2021,Elfsborg,Norrköping,1,0,H,1,0,H,11,8,3,4,0,0
+SE1,23/05/2021,Kalmar,Hammarby,2,1,H,1,1,D,22,11,9,5,0,0
+SE1,24/05/2021,Örebro,Malmö FF,1,2,A,0,1,A,11,18,3,6,0,0
+SE1,22/05/2021,Östersunds FK,Sirius,3,0,H,1,0,H,9,13,7,3,0,0
+SE1,04/07/2021,Häcken,AIK,2,1,H,0,0,D,11,13,6,3,0,0
+SE1,03/07/2021,Degerfors,Östersunds FK,3,1,H,0,1,A,18,20,6,7,0,0
+SE1,05/07/2021,Djurgården,Örebro,3,0,H,1,0,H,24,9,9,3,0,0
+SE1,04/07/2021,Hammarby,Halmstad,1,1,D,0,0,D,10,8,4,4,0,0
+SE1,05/07/2021,IFK Göteborg,Elfsborg,0,1,A,0,0,D,12,13,4,2,0,0
+SE1,03/07/2021,Norrköping,Malmö FF,3,2,H,2,2,D,11,24,6,7,0,0
+SE1,04/07/2021,Sirius,Mjällby,2,1,H,1,1,D,16,14,6,9,0,0
+SE1,04/07/2021,Varberg,Kalmar,1,1,D,0,0,D,16,9,5,4,0,0
+SE1,10/07/2021,AIK,Varberg,2,1,H,1,1,D,26,7,9,2,0,0
+SE1,12/07/2021,Halmstad,Djurgården,0,0,D,0,0,D,10,11,3,0,0,0
+SE1,11/07/2021,Hammarby,Degerfors,5,1,H,1,1,D,29,17,11,6,0,0
+SE1,11/07/2021,Elfsborg,Örebro,2,1,H,0,0,D,19,6,6,2,0,0
+SE1,12/07/2021,Kalmar,Häcken,2,3,A,1,1,D,14,6,4,4,0,0
+SE1,10/07/2021,Malmö FF,Sirius,4,0,H,2,0,H,17,9,9,3,0,0
+SE1,11/07/2021,Mjällby,Norrköping,0,1,A,0,1,A,12,16,0,7,0,0
+SE1,11/07/2021,Östersunds FK,IFK Göteborg,2,3,A,0,2,A,12,17,5,8,0,0
+SE1,18/07/2021,AIK,Kalmar,2,0,H,0,0,D,12,10,6,3,0,0
+SE1,17/07/2021,Degerfors,Malmö FF,0,5,A,0,2,A,8,29,3,11,0,0
+SE1,19/07/2021,Djurgården,Sirius,5,1,H,4,0,H,24,8,9,3,0,0
+SE1,19/07/2021,Halmstad,Varberg,1,1,D,0,0,D,7,9,3,4,1,1
+SE1,17/07/2021,Elfsborg,Östersunds FK,3,0,H,1,0,H,23,5,10,0,0,0
+SE1,18/07/2021,IFK Göteborg,Mjällby,3,2,H,1,1,D,12,12,5,6,0,0
+SE1,18/07/2021,Norrköping,Häcken,0,1,A,0,0,D,14,11,3,3,0,1
+SE1,18/07/2021,Örebro,Hammarby,0,2,A,0,1,A,9,12,2,5,0,0
+SE1,25/07/2021,Häcken,Elfsborg,1,1,D,1,1,D,10,9,4,2,0,0
+SE1,25/07/2021,Hammarby,Norrköping,2,1,H,1,1,D,24,22,7,9,0,0
+SE1,24/07/2021,Sirius,Degerfors,2,0,H,2,0,H,14,15,5,6,0,0
+SE1,25/07/2021,Kalmar,Djurgården,0,1,A,0,0,D,4,13,2,5,0,0
+SE1,24/07/2021,Mjällby,Malmö FF,0,2,A,0,0,D,7,21,4,7,0,0
+SE1,26/07/2021,Varberg,IFK Göteborg,2,0,H,1,0,H,12,8,4,4,0,0
+SE1,26/07/2021,Örebro,AIK,1,1,D,1,0,H,14,26,5,9,0,0
+SE1,26/07/2021,Östersunds FK,Halmstad,0,1,A,0,0,D,14,22,4,11,0,0
+SE1,02/08/2021,AIK,Halmstad,1,0,H,1,0,H,15,13,3,3,0,0
+SE1,31/07/2021,Degerfors,Varberg,1,1,D,0,0,D,14,18,2,6,0,0
+SE1,01/08/2021,Djurgården,Häcken,2,1,H,0,0,D,28,13,10,4,0,0
+SE1,02/08/2021,IFK Göteborg,Norrköping,1,2,A,0,2,A,16,9,6,5,0,0
+SE1,02/08/2021,Sirius,Örebro,1,2,A,0,1,A,16,18,9,4,0,0
+SE1,01/08/2021,Kalmar,Mjällby,1,0,H,0,0,D,20,9,9,2,0,0
+SE1,20/05/2021,Malmö FF,Elfsborg,2,1,H,1,0,H,22,13,7,3,0,0
+SE1,01/08/2021,Östersunds FK,Hammarby,1,1,D,1,0,H,10,17,4,7,0,0
+SE1,08/08/2021,Häcken,Östersunds FK,5,0,H,2,0,H,17,10,9,2,0,0
+SE1,08/08/2021,Djurgården,AIK,1,4,A,1,1,D,26,13,7,8,0,0
+SE1,07/08/2021,Halmstad,Malmö FF,0,0,D,0,0,D,6,17,3,3,0,0
+SE1,08/08/2021,Elfsborg,Degerfors,3,0,H,2,0,H,18,15,11,3,0,0
+SE1,08/08/2021,IFK Göteborg,Hammarby,0,0,D,0,0,D,10,22,4,8,0,0
+SE1,09/08/2021,Norrköping,Kalmar,1,2,A,0,1,A,16,13,9,4,0,0
+SE1,09/08/2021,Varberg,Sirius,0,0,D,0,0,D,12,14,0,3,0,0
+SE1,07/08/2021,Örebro,Mjällby,2,2,D,1,1,D,22,8,8,3,0,1
+SE1,15/08/2021,Degerfors,Häcken,3,0,H,3,0,H,17,12,8,5,0,0
+SE1,15/08/2021,Hammarby,Elfsborg,0,2,A,0,1,A,17,18,7,8,0,0
+SE1,16/08/2021,Sirius,AIK,0,1,A,0,0,D,11,20,4,5,0,0
+SE1,14/08/2021,Kalmar,Halmstad,1,1,D,1,1,D,9,13,3,5,0,0
+SE1,14/08/2021,Malmö FF,IFK Göteborg,2,3,A,1,1,D,34,7,14,4,1,0
+SE1,15/08/2021,Mjällby,Djurgården,0,1,A,0,1,A,15,8,2,3,0,0
+SE1,16/08/2021,Varberg,Örebro,1,0,H,0,0,D,13,10,5,3,0,0
+SE1,15/08/2021,Östersunds FK,Norrköping,1,2,A,0,1,A,10,16,4,5,0,0
+SE1,22/08/2021,AIK,Häcken,2,1,H,1,0,H,7,17,5,10,0,0
+SE1,23/08/2021,Djurgården,Mjällby,0,0,D,0,0,D,15,12,5,2,0,0
+SE1,22/08/2021,Halmstad,Norrköping,2,1,H,1,0,H,16,16,4,7,0,0
+SE1,22/08/2021,Elfsborg,Hammarby,2,2,D,1,0,H,16,14,4,6,0,0
+SE1,23/08/2021,IFK Göteborg,Varberg,1,2,A,0,1,A,14,6,4,4,0,0
+SE1,21/08/2021,Malmö FF,Degerfors,3,0,H,1,0,H,14,10,7,2,0,0
+SE1,22/08/2021,Örebro,Sirius,1,1,D,1,0,H,11,28,4,8,1,0
+SE1,23/08/2021,Östersunds FK,Kalmar,0,1,A,0,0,D,8,19,3,5,0,0
+SE1,28/08/2021,AIK,Örebro,2,0,H,2,0,H,14,10,5,3,0,0
+SE1,29/08/2021,Häcken,IFK Göteborg,3,2,H,2,1,H,15,10,9,5,0,0
+SE1,28/08/2021,Degerfors,Mjällby,0,2,A,0,1,A,12,13,0,6,0,0
+SE1,29/08/2021,Hammarby,Malmö FF,2,1,H,1,1,D,13,26,5,2,0,0
+SE1,29/08/2021,Norrköping,Östersunds FK,3,0,H,2,0,H,16,15,5,3,0,0
+SE1,29/08/2021,Sirius,Djurgården,1,0,H,0,0,D,14,26,6,4,0,0
+SE1,29/08/2021,Kalmar,Elfsborg,0,3,A,0,2,A,18,11,4,6,0,0
+SE1,28/08/2021,Varberg,Halmstad,1,0,H,0,0,D,8,10,5,2,0,0
+SE1,12/09/2021,Djurgården,Hammarby,4,1,H,3,1,H,16,12,10,3,0,0
+SE1,13/09/2021,Elfsborg,Häcken,4,2,H,1,1,D,10,14,7,6,0,0
+SE1,12/09/2021,IFK Göteborg,Halmstad,2,0,H,1,0,H,14,6,8,0,0,0
+SE1,11/09/2021,Sirius,Östersunds FK,1,0,H,1,0,H,19,8,8,3,0,0
+SE1,12/09/2021,Kalmar,Degerfors,4,1,H,1,0,H,23,12,9,4,0,0
+SE1,11/09/2021,Malmö FF,Norrköping,1,1,D,0,0,D,17,14,6,4,0,0
+SE1,13/09/2021,Mjällby,AIK,0,0,D,0,0,D,11,11,2,3,0,0
+SE1,13/09/2021,Örebro,Varberg,0,3,A,0,0,D,13,11,3,8,1,0
+SE1,20/09/2021,AIK,IFK Göteborg,3,1,H,3,1,H,17,12,7,4,0,0
+SE1,18/09/2021,Häcken,Mjällby,0,0,D,0,0,D,16,11,4,3,0,0
+SE1,18/09/2021,Degerfors,Sirius,1,2,A,0,1,A,15,11,6,5,0,0
+SE1,19/09/2021,Halmstad,Kalmar,0,1,A,0,1,A,12,14,3,5,0,0
+SE1,20/09/2021,Hammarby,Varberg,1,0,H,1,0,H,9,8,2,3,0,0
+SE1,19/09/2021,Norrköping,Örebro,3,0,H,1,0,H,18,15,8,6,0,0
+SE1,18/09/2021,Malmö FF,Djurgården,1,1,D,1,0,H,20,12,8,5,0,0
+SE1,19/09/2021,Östersunds FK,Elfsborg,3,1,H,2,0,H,11,18,5,9,0,1
+SE1,22/09/2021,Djurgården,Degerfors,3,2,H,2,0,H,13,16,4,6,0,1
+SE1,23/09/2021,Hammarby,IFK Göteborg,3,0,H,2,0,H,18,13,9,0,0,0
+SE1,22/09/2021,Elfsborg,Malmö FF,0,1,A,0,0,D,11,15,3,2,0,0
+SE1,22/09/2021,Sirius,Norrköping,2,4,A,1,2,A,15,18,8,10,0,0
+SE1,23/09/2021,Kalmar,AIK,1,1,D,0,0,D,15,14,5,6,0,0
+SE1,23/09/2021,Mjällby,Halmstad,0,0,D,0,0,D,12,9,6,5,0,0
+SE1,23/09/2021,Varberg,Häcken,1,1,D,1,0,H,7,17,5,7,0,0
+SE1,22/09/2021,Örebro,Östersunds FK,2,0,H,0,0,D,20,7,5,0,0,0
+SE1,26/09/2021,Häcken,Hammarby,1,1,D,1,1,D,23,10,6,6,0,0
+SE1,27/09/2021,Degerfors,AIK,2,1,H,1,0,H,7,17,4,6,0,0
+SE1,27/09/2021,Halmstad,Sirius,1,1,D,1,0,H,15,10,7,4,0,0
+SE1,27/09/2021,IFK Göteborg,Kalmar,0,2,A,0,1,A,11,9,3,4,0,0
+SE1,26/09/2021,Norrköping,Varberg,2,1,H,1,1,D,11,13,4,5,0,0
+SE1,25/09/2021,Malmö FF,Örebro,5,1,H,2,1,H,25,9,13,5,0,0
+SE1,26/09/2021,Mjällby,Elfsborg,4,0,H,1,0,H,12,8,6,4,0,1
+SE1,26/09/2021,Östersunds FK,Djurgården,0,3,A,0,3,A,8,16,6,11,0,0
+SE1,03/10/2021,AIK,Djurgården,1,0,H,1,0,H,21,15,8,2,1,1
+SE1,02/10/2021,Halmstad,Östersunds FK,1,1,D,1,1,D,24,8,10,3,0,1
+SE1,01/10/2021,Elfsborg,IFK Göteborg,1,0,H,1,0,H,20,6,6,3,0,0
+SE1,03/10/2021,Norrköping,Hammarby,3,1,H,2,0,H,15,14,6,2,0,0
+SE1,03/10/2021,Kalmar,Sirius,3,1,H,0,1,A,14,8,10,5,0,0
+SE1,03/10/2021,Malmö FF,Mjällby,0,1,A,0,1,A,20,8,9,3,0,0
+SE1,02/10/2021,Varberg,Degerfors,0,0,D,0,0,D,22,2,4,0,0,1
+SE1,03/10/2021,Örebro,Häcken,1,2,A,0,2,A,11,17,2,9,0,0
+SE1,18/10/2021,Häcken,Norrköping,5,0,H,0,0,D,14,13,7,6,0,0
+SE1,16/10/2021,Degerfors,Halmstad,2,1,H,2,1,H,11,24,7,7,0,0
+SE1,18/10/2021,Djurgården,Elfsborg,0,3,A,0,1,A,19,15,5,8,0,0
+SE1,17/10/2021,Hammarby,AIK,1,0,H,0,0,D,16,18,5,4,0,0
+SE1,17/10/2021,IFK Göteborg,Örebro,2,0,H,1,0,H,17,6,7,0,0,0
+SE1,16/10/2021,Sirius,Varberg,2,1,H,1,0,H,12,16,4,4,0,0
+SE1,17/10/2021,Mjällby,Kalmar,4,0,H,3,0,H,11,11,7,3,0,0
+SE1,16/10/2021,Östersunds FK,Malmö FF,0,3,A,0,1,A,8,15,4,5,0,0
+SE1,24/10/2021,AIK,Norrköping,1,0,H,1,0,H,10,14,2,3,0,0
+SE1,23/10/2021,Häcken,Halmstad,2,3,A,2,1,H,27,17,9,6,0,0
+SE1,23/10/2021,Djurgården,Kalmar,3,2,H,3,0,H,16,9,5,4,0,0
+SE1,24/10/2021,Hammarby,Östersunds FK,4,3,H,2,3,A,39,7,14,4,0,1
+SE1,24/10/2021,Elfsborg,Sirius,3,0,H,3,0,H,12,13,6,2,1,0
+SE1,24/10/2021,Mjällby,IFK Göteborg,1,3,A,0,1,A,11,16,3,7,1,0
+SE1,24/10/2021,Varberg,Malmö FF,1,1,D,1,1,D,8,14,5,5,0,0
+SE1,25/10/2021,Örebro,Degerfors,1,2,A,0,2,A,21,14,7,6,0,0
+SE1,28/10/2021,Degerfors,Elfsborg,1,2,A,0,1,A,15,13,4,7,0,0
+SE1,28/10/2021,Halmstad,Örebro,1,1,D,1,1,D,15,16,5,3,0,0
+SE1,28/10/2021,IFK Göteborg,Djurgården,3,0,H,1,0,H,13,16,6,7,0,0
+SE1,28/10/2021,Norrköping,Mjällby,2,2,D,0,0,D,15,13,7,4,0,0
+SE1,27/10/2021,Sirius,Hammarby,0,1,A,0,1,A,21,13,5,6,0,0
+SE1,27/10/2021,Kalmar,Varberg,2,2,D,2,2,D,6,11,3,6,0,0
+SE1,27/10/2021,Malmö FF,AIK,1,0,H,1,0,H,11,6,5,3,0,0
+SE1,27/10/2021,Östersunds FK,Häcken,1,1,D,0,0,D,10,23,5,13,0,0
+SE1,30/10/2021,Häcken,Kalmar,1,4,A,0,3,A,12,17,4,9,1,0
+SE1,01/11/2021,Degerfors,IFK Göteborg,0,1,A,0,1,A,15,19,0,7,0,0
+SE1,01/11/2021,Halmstad,AIK,1,0,H,1,0,H,16,14,8,5,0,0
+SE1,31/10/2021,Norrköping,Elfsborg,3,2,H,1,2,A,25,15,10,6,0,2
+SE1,30/10/2021,Sirius,Malmö FF,2,3,A,0,0,D,14,28,4,8,0,0
+SE1,01/11/2021,Mjällby,Hammarby,2,0,H,0,0,D,19,19,6,6,0,0
+SE1,30/10/2021,Varberg,Östersunds FK,3,0,H,1,0,H,20,3,8,2,0,0
+SE1,31/10/2021,Örebro,Djurgården,0,1,A,0,1,A,11,15,4,5,0,0
+SE1,07/11/2021,AIK,Östersunds FK,3,0,H,1,0,H,20,5,13,0,0,0
+SE1,07/11/2021,Häcken,Degerfors,2,0,H,0,0,D,16,14,5,4,0,0
+SE1,06/11/2021,Djurgården,Halmstad,1,0,H,0,0,D,11,7,3,3,0,0
+SE1,07/11/2021,Hammarby,Örebro,3,2,H,0,1,A,18,11,13,7,0,0
+SE1,06/11/2021,Elfsborg,Varberg,0,0,D,0,0,D,11,11,5,7,0,0
+SE1,07/11/2021,IFK Göteborg,Malmö FF,0,2,A,0,1,A,8,22,4,7,0,0
+SE1,07/11/2021,Kalmar,Norrköping,1,0,H,0,0,D,19,12,10,4,0,0
+SE1,06/11/2021,Mjällby,Sirius,2,3,A,1,0,H,11,15,6,5,0,0
+SE1,21/11/2021,Degerfors,Hammarby,1,4,A,0,2,A,18,15,6,6,0,0
+SE1,21/11/2021,Halmstad,Elfsborg,0,1,A,0,0,D,12,17,4,4,0,0
+SE1,22/11/2021,Norrköping,Djurgården,1,1,D,1,1,D,11,16,3,5,0,0
+SE1,21/11/2021,Sirius,IFK Göteborg,3,3,D,2,2,D,25,10,10,7,0,0
+SE1,20/11/2021,Malmö FF,Häcken,2,2,D,1,0,H,15,8,7,5,0,0
+SE1,21/11/2021,Varberg,AIK,0,1,A,0,0,D,10,15,2,5,0,0
+SE1,22/11/2021,Örebro,Kalmar,1,2,A,0,1,A,17,14,5,6,0,0
+SE1,22/11/2021,Östersunds FK,Mjällby,0,2,A,0,0,D,7,24,3,8,1,0
+SE1,28/11/2021,Degerfors,Norrköping,4,1,H,4,0,H,13,9,6,4,0,0
+SE1,28/11/2021,Djurgården,Varberg,2,3,A,0,1,A,28,6,9,5,0,0
+SE1,28/11/2021,Halmstad,Hammarby,0,0,D,0,0,D,18,10,5,4,0,0
+SE1,29/11/2021,Elfsborg,AIK,2,4,A,2,1,H,17,11,6,7,0,0
+SE1,28/11/2021,IFK Göteborg,Östersunds FK,4,0,H,2,0,H,19,9,11,2,0,0
+SE1,29/11/2021,Sirius,Häcken,3,0,H,2,0,H,9,14,6,2,0,0
+SE1,28/11/2021,Kalmar,Malmö FF,0,1,A,0,0,D,9,19,4,5,0,0
+SE1,29/11/2021,Mjällby,Örebro,0,0,D,0,0,D,18,12,6,4,0,0
+SE1,04/12/2021,AIK,Sirius,4,2,H,2,2,D,24,16,9,4,0,0
+SE1,04/12/2021,Häcken,Djurgården,0,1,A,0,1,A,5,14,2,5,1,0
+SE1,04/12/2021,Hammarby,Kalmar,5,3,H,3,1,H,26,15,15,4,0,0
+SE1,04/12/2021,Norrköping,IFK Göteborg,1,2,A,1,1,D,20,19,6,8,0,0
+SE1,04/12/2021,Malmö FF,Halmstad,0,0,D,0,0,D,18,6,8,2,0,0
+SE1,04/12/2021,Varberg,Mjällby,0,3,A,0,1,A,13,15,3,12,0,0
+SE1,04/12/2021,Örebro,Elfsborg,2,3,A,1,0,H,12,20,8,11,1,0
+SE1,04/12/2021,Östersunds FK,Degerfors,0,1,A,0,0,D,13,32,2,10,0,0

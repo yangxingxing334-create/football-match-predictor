@@ -1,0 +1,220 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HR,AR
+SE1,04/04/2015,Hammarby,Häcken,2,0,H,2,0,H,12,7,6,5,0,0
+SE1,04/04/2015,Kalmar,Helsingborg,0,0,D,0,0,D,11,13,7,4,0,0
+SE1,05/04/2015,IFK Göteborg,Åtvidaberg,1,0,H,0,0,D,15,9,5,5,0,1
+SE1,05/04/2015,Falkenberg,Gefle,0,2,A,0,1,A,21,8,11,4,0,0
+SE1,05/04/2015,Djurgården,Elfsborg,1,2,A,0,1,A,12,8,6,4,0,0
+SE1,05/04/2015,Norrköping,Örebro,1,1,D,1,0,H,18,14,7,6,0,0
+SE1,06/04/2015,AIK,Halmstad,2,1,H,0,0,D,10,11,3,6,0,0
+SE1,06/04/2015,GIF Sundsvall,Malmö FF,1,4,A,1,4,A,9,6,5,4,0,1
+SE1,08/04/2015,Helsingborg,Falkenberg,0,0,D,0,0,D,19,9,11,4,0,0
+SE1,08/04/2015,Gefle,Kalmar,2,0,H,2,0,H,6,16,3,9,0,0
+SE1,08/04/2015,Örebro,IFK Göteborg,0,2,A,0,1,A,9,13,5,5,0,0
+SE1,08/04/2015,Elfsborg,Hammarby,1,1,D,0,1,A,13,5,8,0,0,0
+SE1,09/04/2015,Halmstad,Norrköping,0,3,A,0,1,A,13,14,7,7,0,0
+SE1,09/04/2015,Häcken,Djurgården,1,1,D,0,0,D,15,9,7,5,0,0
+SE1,09/04/2015,Åtvidaberg,GIF Sundsvall,2,3,A,1,2,A,7,7,5,4,0,0
+SE1,09/04/2015,Malmö FF,AIK,0,0,D,0,0,D,13,10,6,4,0,0
+SE1,12/04/2015,Halmstad,Helsingborg,1,2,A,0,1,A,11,11,5,4,0,0
+SE1,12/04/2015,Falkenberg,Örebro,2,0,H,1,0,H,7,10,4,5,0,0
+SE1,12/04/2015,IFK Göteborg,Malmö FF,0,1,A,0,1,A,7,6,2,2,0,0
+SE1,12/04/2015,AIK,Gefle,3,1,H,1,0,H,19,5,7,3,0,0
+SE1,13/04/2015,GIF Sundsvall,Häcken,1,1,D,0,0,D,7,18,4,11,0,0
+SE1,13/04/2015,Norrköping,Elfsborg,0,4,A,0,2,A,18,9,7,6,0,0
+SE1,13/04/2015,Kalmar,Åtvidaberg,2,1,H,0,1,A,12,7,6,2,0,0
+SE1,17/04/2015,Djurgården,Kalmar,1,0,H,0,0,D,8,10,3,6,0,0
+SE1,18/04/2015,Gefle,Halmstad,0,0,D,0,0,D,28,11,13,6,0,0
+SE1,19/04/2015,Åtvidaberg,Falkenberg,3,1,H,2,0,H,9,11,4,5,1,0
+SE1,19/04/2015,Häcken,IFK Göteborg,1,2,A,0,0,D,12,9,5,5,0,0
+SE1,20/04/2015,Helsingborg,Norrköping,3,1,H,1,0,H,11,10,5,3,0,0
+SE1,20/04/2015,Örebro,GIF Sundsvall,1,3,A,0,2,A,15,7,4,4,0,0
+SE1,20/04/2015,Malmö FF,Hammarby,3,1,H,2,1,H,7,13,2,6,0,0
+SE1,21/04/2015,Elfsborg,AIK,3,2,H,3,2,H,10,10,4,2,0,0
+SE1,24/04/2015,Falkenberg,Malmö FF,3,3,D,2,0,H,7,25,3,9,0,0
+SE1,25/04/2015,Hammarby,Åtvidaberg,2,1,H,2,0,H,17,9,7,4,0,0
+SE1,26/04/2015,GIF Sundsvall,Djurgården,0,2,A,0,0,D,9,10,5,4,0,0
+SE1,26/04/2015,Halmstad,Elfsborg,1,0,H,0,0,D,4,14,4,7,0,0
+SE1,26/04/2015,AIK,Örebro,3,0,H,2,0,H,21,5,8,3,0,1
+SE1,26/04/2015,Kalmar,Häcken,0,1,A,0,0,D,17,9,6,7,1,0
+SE1,27/04/2015,Norrköping,Gefle,4,1,H,4,0,H,16,11,11,7,0,0
+SE1,27/04/2015,IFK Göteborg,Helsingborg,3,1,H,2,0,H,12,16,6,4,0,0
+SE1,29/04/2015,Elfsborg,Kalmar,2,1,H,1,1,D,17,5,7,3,0,0
+SE1,29/04/2015,Malmö FF,Halmstad,3,1,H,2,1,H,16,4,6,3,0,0
+SE1,29/04/2015,Djurgården,Falkenberg,3,1,H,0,0,D,16,6,6,2,0,0
+SE1,29/04/2015,Åtvidaberg,AIK,1,1,D,0,0,D,11,11,5,7,0,0
+SE1,30/04/2015,Häcken,Norrköping,0,2,A,0,1,A,13,11,8,7,0,0
+SE1,30/04/2015,Helsingborg,GIF Sundsvall,2,0,H,1,0,H,10,15,6,7,0,0
+SE1,30/04/2015,Gefle,IFK Göteborg,0,0,D,0,0,D,9,12,4,4,0,0
+SE1,30/04/2015,Örebro,Hammarby,2,2,D,1,1,D,19,10,7,3,0,0
+SE1,03/05/2015,GIF Sundsvall,Elfsborg,0,1,A,0,0,D,20,11,9,6,0,0
+SE1,03/05/2015,Norrköping,Åtvidaberg,2,1,H,0,0,D,16,11,6,7,0,1
+SE1,03/05/2015,Malmö FF,Helsingborg,3,1,H,2,0,H,14,10,9,4,0,0
+SE1,03/05/2015,Djurgården,Gefle,5,1,H,3,0,H,13,9,4,2,0,0
+SE1,04/05/2015,Halmstad,Häcken,0,2,A,0,1,A,11,13,5,5,0,0
+SE1,04/05/2015,IFK Göteborg,Falkenberg,2,1,H,0,0,D,12,5,3,2,0,0
+SE1,04/05/2015,Kalmar,Örebro,3,0,H,2,0,H,16,12,10,10,0,0
+SE1,04/05/2015,AIK,Hammarby,2,0,H,0,0,D,9,8,3,6,0,0
+SE1,08/05/2015,Kalmar,IFK Göteborg,0,2,A,0,1,A,6,20,3,9,0,0
+SE1,09/05/2015,Helsingborg,Gefle,1,2,A,0,2,A,15,9,6,5,0,0
+SE1,10/05/2015,Falkenberg,Halmstad,1,0,H,1,0,H,12,9,6,7,0,0
+SE1,10/05/2015,AIK,Norrköping,2,2,D,2,1,H,15,12,7,2,0,0
+SE1,11/05/2015,Hammarby,GIF Sundsvall,1,2,A,1,1,D,13,16,9,5,0,0
+SE1,11/05/2015,Åtvidaberg,Djurgården,2,3,A,0,1,A,8,11,4,6,0,0
+SE1,11/05/2015,Elfsborg,Malmö FF,2,2,D,1,1,D,13,11,7,5,0,0
+SE1,18/05/2015,Halmstad,Djurgården,2,3,A,1,1,D,10,13,2,4,0,0
+SE1,20/05/2015,Örebro,Åtvidaberg,2,1,H,2,1,H,7,9,7,4,0,0
+SE1,20/05/2015,Norrköping,Hammarby,1,0,H,1,0,H,14,19,7,8,0,0
+SE1,20/05/2015,Elfsborg,Helsingborg,2,1,H,0,1,A,18,9,8,2,0,0
+SE1,20/05/2015,Gefle,GIF Sundsvall,3,1,H,1,0,H,7,13,2,5,0,0
+SE1,21/05/2015,Malmö FF,Häcken,0,3,A,0,0,D,15,10,6,7,0,0
+SE1,21/05/2015,IFK Göteborg,AIK,3,0,H,1,0,H,13,10,8,5,0,0
+SE1,24/05/2015,Halmstad,IFK Göteborg,1,2,A,0,1,A,9,11,3,3,0,0
+SE1,24/05/2015,Örebro,Gefle,1,0,H,1,0,H,11,8,6,5,0,0
+SE1,24/05/2015,Kalmar,Malmö FF,2,1,H,0,1,A,11,9,4,3,0,0
+SE1,24/05/2015,Åtvidaberg,Elfsborg,1,2,A,0,1,A,10,16,3,10,0,0
+SE1,25/05/2015,Häcken,Falkenberg,0,2,A,0,1,A,11,15,5,6,0,0
+SE1,25/05/2015,Helsingborg,Hammarby,1,0,H,0,0,D,8,14,2,5,0,0
+SE1,25/05/2015,Djurgården,AIK,2,2,D,0,2,A,12,6,7,4,0,0
+SE1,29/05/2015,Gefle,Häcken,2,0,H,0,0,D,13,11,5,3,0,0
+SE1,30/05/2015,Hammarby,Halmstad,2,2,D,1,0,H,13,10,6,5,0,0
+SE1,30/05/2015,Norrköping,Kalmar,2,1,H,1,0,H,18,4,6,2,0,0
+SE1,30/05/2015,Falkenberg,GIF Sundsvall,1,1,D,0,0,D,15,7,7,4,0,0
+SE1,31/05/2015,AIK,Helsingborg,3,1,H,1,1,D,18,8,4,3,0,1
+SE1,31/05/2015,Elfsborg,Örebro,2,2,D,0,1,A,10,7,2,4,0,0
+SE1,31/05/2015,Malmö FF,Åtvidaberg,3,0,H,3,0,H,22,8,9,4,0,0
+SE1,01/06/2015,IFK Göteborg,Djurgården,0,0,D,0,0,D,12,15,6,10,0,0
+SE1,03/06/2015,Halmstad,GIF Sundsvall,1,0,H,0,0,D,4,12,0,5,0,0
+SE1,03/06/2015,Åtvidaberg,Häcken,1,1,D,1,1,D,9,7,2,3,0,0
+SE1,03/06/2015,Örebro,Helsingborg,0,0,D,0,0,D,16,20,7,11,0,0
+SE1,03/06/2015,Gefle,Malmö FF,1,2,A,0,1,A,11,13,8,8,0,0
+SE1,04/06/2015,Kalmar,Hammarby,2,2,D,1,0,H,16,14,5,5,0,0
+SE1,04/06/2015,Djurgården,Norrköping,1,1,D,1,0,H,15,11,4,6,0,0
+SE1,04/06/2015,IFK Göteborg,Elfsborg,1,0,H,1,0,H,10,13,7,7,0,1
+SE1,06/06/2015,Häcken,AIK,0,0,D,0,0,D,11,16,4,9,0,0
+SE1,06/06/2015,Helsingborg,Åtvidaberg,3,0,H,2,0,H,10,5,6,2,0,1
+SE1,06/06/2015,Örebro,Halmstad,1,1,D,0,0,D,9,11,3,6,0,0
+SE1,07/06/2015,Hammarby,IFK Göteborg,0,1,A,0,0,D,17,7,7,4,1,0
+SE1,07/06/2015,GIF Sundsvall,Kalmar,1,1,D,0,0,D,13,12,4,6,0,0
+SE1,07/06/2015,Norrköping,Falkenberg,2,0,H,2,0,H,13,11,7,5,0,0
+SE1,07/06/2015,Malmö FF,Djurgården,1,1,D,0,1,A,14,8,10,4,0,0
+SE1,04/07/2015,Åtvidaberg,Halmstad,0,0,D,0,0,D,14,12,8,4,0,0
+SE1,04/07/2015,Norrköping,Malmö FF,3,1,H,2,1,H,11,12,4,7,0,0
+SE1,05/07/2015,Falkenberg,Elfsborg,2,2,D,0,1,A,9,20,6,11,0,0
+SE1,05/07/2015,GIF Sundsvall,IFK Göteborg,2,2,D,0,2,A,12,18,8,3,0,0
+SE1,05/07/2015,Häcken,Helsingborg,3,2,H,1,1,D,26,11,12,7,0,0
+SE1,06/07/2015,Gefle,Hammarby,1,1,D,1,1,D,4,12,0,7,0,0
+SE1,11/07/2015,Malmö FF,Örebro,2,2,D,1,2,A,13,5,8,0,0,0
+SE1,11/07/2015,Halmstad,Kalmar,1,0,H,0,0,D,8,15,5,7,0,0
+SE1,11/07/2015,Åtvidaberg,Gefle,1,1,D,1,0,H,14,9,5,5,0,0
+SE1,12/07/2015,Elfsborg,Häcken,1,0,H,1,0,H,19,12,3,5,0,0
+SE1,12/07/2015,IFK Göteborg,Norrköping,0,0,D,0,0,D,15,13,7,5,0,0
+SE1,12/07/2015,AIK,GIF Sundsvall,4,1,H,2,1,H,17,7,3,4,0,0
+SE1,13/07/2015,Hammarby,Falkenberg,3,0,H,2,0,H,19,7,8,0,0,0
+SE1,13/07/2015,Helsingborg,Djurgården,0,1,A,0,0,D,6,24,4,9,0,0
+SE1,18/07/2015,Kalmar,Falkenberg,4,0,H,2,0,H,16,8,9,3,0,0
+SE1,18/07/2015,Örebro,Malmö FF,1,1,D,0,0,D,6,20,4,3,0,0
+SE1,18/07/2015,GIF Sundsvall,Halmstad,0,0,D,0,0,D,15,13,7,7,0,0
+SE1,19/07/2015,Norrköping,IFK Göteborg,2,2,D,1,1,D,13,11,6,6,0,0
+SE1,19/07/2015,Helsingborg,AIK,3,1,H,1,0,H,10,18,5,7,0,0
+SE1,20/07/2015,Djurgården,Åtvidaberg,0,0,D,0,0,D,19,8,7,5,0,0
+SE1,20/07/2015,Häcken,Hammarby,3,3,D,2,1,H,15,11,2,4,0,0
+SE1,25/07/2015,Malmö FF,GIF Sundsvall,3,0,H,2,0,H,14,4,5,0,0,0
+SE1,25/07/2015,Häcken,Kalmar,3,0,H,0,0,D,11,9,7,4,0,0
+SE1,25/07/2015,Åtvidaberg,Helsingborg,1,2,A,0,1,A,15,7,5,4,0,0
+SE1,26/07/2015,Falkenberg,IFK Göteborg,1,0,H,1,0,H,8,21,5,12,0,0
+SE1,26/07/2015,AIK,Elfsborg,4,2,H,4,0,H,9,9,4,4,0,0
+SE1,27/07/2015,Halmstad,Gefle,0,1,A,0,1,A,18,7,10,3,0,0
+SE1,27/07/2015,Hammarby,Norrköping,0,1,A,0,1,A,18,14,8,7,0,0
+SE1,27/07/2015,Örebro,Djurgården,0,1,A,0,0,D,8,11,3,4,0,0
+SE1,31/07/2015,Helsingborg,Kalmar,1,2,A,0,0,D,12,16,4,9,0,0
+SE1,01/08/2015,Åtvidaberg,Malmö FF,2,2,D,2,0,H,8,7,4,3,0,0
+SE1,01/08/2015,Gefle,Falkenberg,1,0,H,1,0,H,18,15,11,6,0,0
+SE1,01/08/2015,Djurgården,Häcken,2,1,H,1,0,H,7,24,4,10,0,1
+SE1,02/08/2015,Norrköping,AIK,1,2,A,0,1,A,12,13,6,3,0,0
+SE1,02/08/2015,IFK Göteborg,Örebro,6,0,H,4,0,H,3,0,0,0,0,0
+SE1,02/08/2015,Elfsborg,Halmstad,2,0,H,1,0,H,18,12,8,5,0,0
+SE1,03/08/2015,GIF Sundsvall,Hammarby,3,0,H,0,0,D,10,17,7,9,0,0
+SE1,08/08/2015,Häcken,Gefle,1,1,D,0,1,A,18,12,6,5,0,0
+SE1,08/08/2015,Falkenberg,Helsingborg,2,3,A,1,2,A,17,17,10,10,0,0
+SE1,09/08/2015,Malmö FF,IFK Göteborg,2,1,H,2,0,H,6,14,4,6,1,0
+SE1,09/08/2015,Örebro,Norrköping,1,3,A,0,2,A,13,6,4,3,0,0
+SE1,09/08/2015,Hammarby,Elfsborg,0,0,D,0,0,D,17,9,7,4,0,0
+SE1,10/08/2015,Kalmar,GIF Sundsvall,0,2,A,0,1,A,18,5,7,3,0,0
+SE1,10/08/2015,AIK,Djurgården,1,0,H,0,0,D,12,18,2,10,1,1
+SE1,12/08/2015,Gefle,Elfsborg,2,3,A,2,1,H,6,27,6,12,0,0
+SE1,15/08/2015,Malmö FF,Gefle,2,0,H,1,0,H,15,9,6,5,0,0
+SE1,15/08/2015,GIF Sundsvall,Örebro,1,0,H,0,0,D,16,18,5,5,1,0
+SE1,16/08/2015,IFK Göteborg,Häcken,4,0,H,1,0,H,11,9,2,6,0,1
+SE1,16/08/2015,AIK,Kalmar,2,1,H,2,0,H,5,8,3,2,0,0
+SE1,16/08/2015,Elfsborg,Djurgården,2,0,H,1,0,H,8,12,4,8,0,0
+SE1,17/08/2015,Helsingborg,Halmstad,2,0,H,0,0,D,19,7,7,4,0,1
+SE1,17/08/2015,Falkenberg,Hammarby,0,1,A,0,0,D,15,5,5,2,0,0
+SE1,17/08/2015,Åtvidaberg,Norrköping,1,1,D,1,0,H,7,19,4,10,0,0
+SE1,22/08/2015,Häcken,Malmö FF,1,0,H,0,0,D,10,6,7,3,0,0
+SE1,23/08/2015,Gefle,AIK,1,2,A,0,1,A,8,12,5,4,0,0
+SE1,23/08/2015,Åtvidaberg,IFK Göteborg,0,1,A,0,0,D,13,21,6,11,0,0
+SE1,23/08/2015,Kalmar,Elfsborg,0,3,A,0,0,D,14,6,5,3,0,0
+SE1,23/08/2015,Halmstad,Örebro,2,2,D,0,1,A,12,13,4,6,0,0
+SE1,24/08/2015,GIF Sundsvall,Falkenberg,0,1,A,0,0,D,19,13,9,4,0,0
+SE1,24/08/2015,Norrköping,Helsingborg,3,2,H,1,0,H,13,13,2,8,0,1
+SE1,24/08/2015,Djurgården,Hammarby,2,2,D,0,1,A,12,10,8,7,0,0
+SE1,28/08/2015,Hammarby,Kalmar,0,0,D,0,0,D,18,8,10,5,0,0
+SE1,29/08/2015,Djurgården,Halmstad,4,2,H,2,2,D,22,4,8,0,0,0
+SE1,29/08/2015,Falkenberg,Norrköping,0,1,A,0,0,D,8,17,3,11,0,0
+SE1,30/08/2015,AIK,Åtvidaberg,1,0,H,1,0,H,16,10,7,4,0,0
+SE1,30/08/2015,Helsingborg,Malmö FF,0,3,A,0,2,A,7,13,3,8,0,0
+SE1,30/08/2015,Elfsborg,GIF Sundsvall,1,2,A,0,2,A,22,11,13,6,0,2
+SE1,11/09/2015,Kalmar,Norrköping,1,2,A,0,2,A,15,14,7,8,0,0
+SE1,12/09/2015,Malmö FF,Elfsborg,1,1,D,0,1,A,13,4,6,2,0,0
+SE1,12/09/2015,Falkenberg,AIK,2,4,A,0,1,A,10,6,5,4,0,0
+SE1,13/09/2015,Helsingborg,IFK Göteborg,1,2,A,1,0,H,11,8,6,4,0,0
+SE1,14/09/2015,GIF Sundsvall,Åtvidaberg,0,1,A,0,0,D,16,4,8,3,0,0
+SE1,14/09/2015,Häcken,Halmstad,4,1,H,2,1,H,15,10,7,6,0,0
+SE1,14/09/2015,Gefle,Djurgården,2,1,H,2,0,H,14,15,3,6,0,0
+SE1,18/09/2015,Halmstad,Falkenberg,0,1,A,0,1,A,19,13,10,8,0,0
+SE1,19/09/2015,AIK,Häcken,2,1,H,2,1,H,15,6,5,3,1,0
+SE1,20/09/2015,Djurgården,Malmö FF,0,2,A,0,0,D,17,6,6,3,0,0
+SE1,20/09/2015,Gefle,Helsingborg,2,1,H,2,0,H,7,9,6,6,0,0
+SE1,20/09/2015,Åtvidaberg,Kalmar,1,1,D,0,1,A,12,6,4,5,0,0
+SE1,20/09/2015,IFK Göteborg,Hammarby,1,0,H,0,0,D,9,9,5,4,0,0
+SE1,20/09/2015,Norrköping,GIF Sundsvall,5,1,H,1,0,H,17,9,5,4,0,0
+SE1,21/09/2015,Örebro,Elfsborg,4,2,H,2,1,H,11,17,5,9,0,0
+SE1,23/09/2015,Hammarby,Gefle,3,0,H,1,0,H,10,7,5,2,0,0
+SE1,23/09/2015,Norrköping,Djurgården,4,2,H,1,0,H,16,8,4,6,0,0
+SE1,23/09/2015,Kalmar,Halmstad,1,0,H,1,0,H,11,9,5,5,0,0
+SE1,23/09/2015,GIF Sundsvall,AIK,0,2,A,0,1,A,14,13,7,2,0,0
+SE1,24/09/2015,Häcken,Åtvidaberg,3,0,H,2,0,H,22,12,14,3,0,1
+SE1,24/09/2015,Elfsborg,IFK Göteborg,1,1,D,0,0,D,14,12,7,7,0,0
+SE1,26/09/2015,Halmstad,Malmö FF,0,0,D,0,0,D,9,5,5,4,0,0
+SE1,27/09/2015,Hammarby,AIK,1,0,H,0,0,D,8,9,2,5,0,1
+SE1,27/09/2015,Falkenberg,Häcken,1,2,A,0,2,A,18,9,10,5,0,0
+SE1,27/09/2015,Gefle,Norrköping,1,2,A,1,1,D,6,18,4,10,0,0
+SE1,28/09/2015,Elfsborg,Åtvidaberg,3,1,H,1,1,D,12,9,5,3,0,0
+SE1,28/09/2015,Djurgården,Helsingborg,2,2,D,2,1,H,15,11,9,6,0,0
+SE1,28/09/2015,Örebro,Kalmar,2,1,H,2,1,H,10,18,3,10,0,0
+SE1,28/09/2015,IFK Göteborg,GIF Sundsvall,3,2,H,1,1,D,13,10,7,5,0,0
+SE1,02/10/2015,Åtvidaberg,Hammarby,0,3,A,0,0,D,16,17,6,8,0,0
+SE1,03/10/2015,Örebro,Falkenberg,2,1,H,1,1,D,14,11,5,3,0,0
+SE1,04/10/2015,IFK Göteborg,Halmstad,1,1,D,0,1,A,26,10,10,4,0,0
+SE1,04/10/2015,Helsingborg,Elfsborg,2,1,H,1,0,H,14,11,7,6,0,0
+SE1,04/10/2015,Kalmar,Djurgården,0,3,A,0,1,A,13,14,6,6,0,0
+SE1,04/10/2015,AIK,Malmö FF,2,1,H,1,1,D,9,12,4,4,0,1
+SE1,04/10/2015,Norrköping,Häcken,3,1,H,0,0,D,16,12,9,6,0,0
+SE1,17/10/2015,Malmö FF,Kalmar,3,0,H,0,0,D,11,9,5,5,0,0
+SE1,18/10/2015,Halmstad,AIK,0,1,A,0,0,D,9,14,5,8,0,0
+SE1,18/10/2015,Hammarby,Helsingborg,1,4,A,1,2,A,22,6,9,3,0,1
+SE1,18/10/2015,Falkenberg,Åtvidaberg,6,0,H,3,0,H,9,8,3,2,0,0
+SE1,19/10/2015,Häcken,GIF Sundsvall,3,1,H,1,1,D,18,17,8,6,0,0
+SE1,19/10/2015,Gefle,Örebro,2,2,D,0,1,A,9,14,4,3,0,0
+SE1,19/10/2015,Elfsborg,Norrköping,3,2,H,3,1,H,9,16,6,10,0,0
+SE1,24/10/2015,Falkenberg,Djurgården,0,2,A,0,0,D,15,21,4,13,0,0
+SE1,25/10/2015,Hammarby,Malmö FF,0,1,A,0,0,D,9,3,5,0,0,0
+SE1,25/10/2015,Häcken,Elfsborg,5,2,H,1,1,D,11,6,6,3,0,0
+SE1,25/10/2015,Norrköping,Halmstad,3,1,H,2,0,H,15,6,4,4,0,0
+SE1,26/10/2015,Kalmar,Gefle,3,1,H,2,0,H,17,4,7,3,0,1
+SE1,26/10/2015,Åtvidaberg,Örebro,2,3,A,1,3,A,14,12,9,7,0,0
+SE1,26/10/2015,AIK,IFK Göteborg,1,2,A,1,1,D,13,9,6,4,0,0
+SE1,31/10/2015,Halmstad,Hammarby,2,1,H,0,0,D,5,20,4,7,0,0
+SE1,31/10/2015,Helsingborg,Häcken,1,2,A,1,1,D,18,9,10,4,0,0
+SE1,31/10/2015,Elfsborg,Falkenberg,4,2,H,0,1,A,19,6,8,4,0,0
+SE1,31/10/2015,Malmö FF,Norrköping,0,2,A,0,1,A,8,10,4,5,2,0

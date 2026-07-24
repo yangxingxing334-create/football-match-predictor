@@ -1,0 +1,241 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HR,AR
+SE1,15/06/2020,Helsingborg,Varberg,0,3,A,0,1,A,6,16,3,9,0,0
+SE1,14/06/2020,IFK Göteborg,Elfsborg,0,1,A,0,1,A,11,11,3,4,1,0
+SE1,17/06/2020,Elfsborg,Hammarby,2,2,D,1,0,H,18,17,9,6,0,0
+SE1,21/06/2020,Hammarby,AIK,0,2,A,0,0,D,8,14,3,8,0,0
+SE1,18/06/2020,Mjällby,Falkenberg,0,1,A,0,1,A,5,13,4,7,0,0
+SE1,14/06/2020,Örebro,AIK,0,2,A,0,0,D,11,8,6,5,0,0
+SE1,18/06/2020,Östersunds FK,Sirius,0,2,A,0,0,D,9,21,4,6,0,0
+SE1,21/06/2020,Falkenberg,Kalmar,0,2,A,0,0,D,12,10,2,3,0,0
+SE1,21/06/2020,Malmö FF,Varberg,2,2,D,1,1,D,20,9,4,4,1,0
+SE1,18/06/2020,Kalmar,Helsingborg,4,0,H,2,0,H,26,9,11,0,0,0
+SE1,22/06/2020,Helsingborg,Elfsborg,0,0,D,0,0,D,6,7,0,3,0,0
+SE1,22/06/2020,Sirius,Häcken,2,2,D,1,2,A,14,12,5,5,0,0
+SE1,21/06/2020,Örebro,Östersunds FK,0,0,D,0,0,D,10,17,3,4,0,0
+SE1,15/06/2020,Falkenberg,Häcken,1,1,D,1,1,D,12,10,5,7,0,0
+SE1,14/06/2020,Sirius,Djurgården,0,2,A,0,1,A,14,8,4,4,0,0
+SE1,17/06/2020,AIK,Norrköping,1,4,A,0,4,A,13,12,3,7,0,0
+SE1,18/06/2020,Varberg,IFK Göteborg,1,2,A,1,1,D,10,10,4,5,0,0
+SE1,22/06/2020,IFK Göteborg,Mjällby,2,2,D,0,1,A,20,7,6,5,0,0
+SE1,21/06/2020,Norrköping,Djurgården,3,0,H,2,0,H,16,14,9,2,0,0
+SE1,14/06/2020,Norrköping,Kalmar,2,1,H,1,1,D,15,5,11,2,0,0
+SE1,18/06/2020,Häcken,Malmö FF,1,1,D,0,1,A,18,10,7,4,0,0
+SE1,14/06/2020,Hammarby,Östersunds FK,2,0,H,1,0,H,15,6,7,3,0,0
+SE1,17/06/2020,Djurgården,Örebro,1,2,A,1,1,D,15,18,7,8,0,0
+SE1,15/06/2020,Malmö FF,Mjällby,2,0,H,0,0,D,14,7,6,4,0,0
+SE1,28/06/2020,Sirius,IFK Göteborg,2,2,D,1,1,D,14,12,7,6,0,0
+SE1,28/06/2020,Djurgården,Kalmar,5,0,H,4,0,H,14,12,7,3,0,1
+SE1,28/06/2020,Mjällby,Hammarby,2,1,H,0,1,A,19,4,4,2,0,1
+SE1,28/06/2020,Elfsborg,Örebro,1,1,D,0,1,A,19,7,7,3,1,0
+SE1,28/06/2020,AIK,Malmö FF,2,2,D,1,0,H,9,12,3,3,0,0
+SE1,29/06/2020,Häcken,Helsingborg,1,0,H,0,0,D,22,12,6,3,0,0
+SE1,29/06/2020,Varberg,Falkenberg,3,1,H,2,0,H,8,13,5,7,0,0
+SE1,01/07/2020,Norrköping,Elfsborg,1,1,D,0,1,A,21,11,5,4,0,0
+SE1,01/07/2020,Kalmar,Östersunds FK,1,2,A,1,0,H,23,12,8,5,0,0
+SE1,01/07/2020,Malmö FF,Djurgården,1,0,H,1,0,H,15,7,4,2,0,0
+SE1,02/07/2020,Hammarby,Varberg,1,0,H,1,0,H,16,8,6,2,0,0
+SE1,02/07/2020,IFK Göteborg,AIK,1,0,H,0,0,D,7,8,2,5,0,0
+SE1,02/07/2020,Falkenberg,Sirius,1,2,A,1,0,H,14,7,6,4,0,0
+SE1,02/07/2020,Örebro,Häcken,0,0,D,0,0,D,13,14,7,3,0,0
+SE1,02/07/2020,Helsingborg,Mjällby,0,1,A,0,0,D,18,19,5,7,0,0
+SE1,27/06/2020,Östersunds FK,Norrköping,2,4,A,1,1,D,7,26,5,14,0,0
+SE1,05/07/2020,Elfsborg,Malmö FF,1,0,H,1,0,H,13,12,3,3,0,0
+SE1,05/07/2020,AIK,Falkenberg,1,1,D,0,0,D,9,10,3,3,0,0
+SE1,05/07/2020,Sirius,Örebro,2,1,H,0,1,A,18,10,3,4,0,0
+SE1,05/07/2020,Häcken,Hammarby,3,0,H,1,0,H,15,17,6,5,0,0
+SE1,06/07/2020,Norrköping,IFK Göteborg,3,1,H,1,0,H,14,13,6,5,0,0
+SE1,06/07/2020,Djurgården,Helsingborg,2,2,D,2,1,H,11,14,3,5,0,0
+SE1,06/07/2020,Östersunds FK,Mjällby,0,1,A,0,0,D,10,16,4,7,0,0
+SE1,06/07/2020,Varberg,Kalmar,1,0,H,0,0,D,12,15,5,8,0,0
+SE1,11/07/2020,Hammarby,Sirius,0,0,D,0,0,D,8,9,3,2,0,0
+SE1,12/07/2020,IFK Göteborg,Djurgården,1,2,A,0,2,A,7,18,6,7,1,0
+SE1,13/07/2020,Kalmar,Elfsborg,1,2,A,1,0,H,12,14,4,5,0,0
+SE1,11/07/2020,Falkenberg,Östersunds FK,0,1,A,0,0,D,14,9,4,4,1,0
+SE1,12/07/2020,Örebro,Varberg,1,0,H,0,0,D,13,10,4,3,0,0
+SE1,12/07/2020,Helsingborg,AIK,2,0,H,0,0,D,15,14,4,5,0,0
+SE1,13/07/2020,Malmö FF,Norrköping,1,1,D,1,0,H,8,9,4,3,0,0
+SE1,12/07/2020,Mjällby,Häcken,3,1,H,1,0,H,13,9,6,0,0,0
+SE1,16/07/2020,Häcken,Elfsborg,6,0,H,2,0,H,20,18,14,3,0,1
+SE1,16/07/2020,Norrköping,Örebro,2,0,H,0,0,D,21,10,9,4,0,0
+SE1,15/07/2020,IFK Göteborg,Helsingborg,1,1,D,1,0,H,15,11,3,4,0,0
+SE1,15/07/2020,Djurgården,Falkenberg,1,0,H,0,0,D,29,7,11,2,0,1
+SE1,16/07/2020,Kalmar,Hammarby,1,2,A,1,1,D,7,23,3,4,1,0
+SE1,15/07/2020,AIK,Sirius,1,0,H,0,0,D,17,6,8,2,0,0
+SE1,16/07/2020,Östersunds FK,Malmö FF,1,2,A,0,1,A,9,18,3,3,0,0
+SE1,16/07/2020,Varberg,Mjällby,1,0,H,0,0,D,11,11,6,2,0,0
+SE1,19/07/2020,Sirius,Norrköping,4,2,H,1,1,D,23,16,11,10,0,0
+SE1,20/07/2020,Hammarby,IFK Göteborg,1,1,D,0,0,D,11,11,5,6,0,0
+SE1,19/07/2020,Elfsborg,Djurgården,1,0,H,0,0,D,10,12,4,0,0,0
+SE1,19/07/2020,Falkenberg,Helsingborg,2,2,D,1,0,H,16,25,4,6,0,0
+SE1,20/07/2020,Örebro,Mjällby,3,1,H,1,1,D,16,11,7,2,0,0
+SE1,19/07/2020,Östersunds FK,Häcken,2,2,D,0,0,D,9,18,3,12,0,0
+SE1,19/07/2020,Malmö FF,Kalmar,2,1,H,0,1,A,22,3,8,2,0,0
+SE1,19/07/2020,Varberg,AIK,2,2,D,1,1,D,10,7,4,3,0,0
+SE1,22/07/2020,Häcken,AIK,4,0,H,2,0,H,15,10,7,2,0,0
+SE1,22/07/2020,Norrköping,Varberg,2,0,H,1,0,H,14,9,9,4,0,0
+SE1,23/07/2020,IFK Göteborg,Falkenberg,2,2,D,1,0,H,23,19,7,8,0,0
+SE1,22/07/2020,Djurgården,Östersunds FK,0,0,D,0,0,D,22,11,9,4,0,0
+SE1,23/07/2020,Kalmar,Sirius,1,1,D,0,0,D,20,10,5,6,0,0
+SE1,23/07/2020,Helsingborg,Örebro,1,1,D,0,1,A,24,10,4,2,0,0
+SE1,23/07/2020,Malmö FF,Hammarby,3,0,H,2,0,H,18,10,8,2,0,0
+SE1,23/07/2020,Mjällby,Elfsborg,0,5,A,0,4,A,14,14,3,9,0,0
+SE1,26/07/2020,Sirius,Malmö FF,2,5,A,1,0,H,11,12,7,5,0,0
+SE1,27/07/2020,Hammarby,Örebro,3,0,H,1,0,H,20,7,7,5,0,0
+SE1,26/07/2020,Elfsborg,Varberg,3,3,D,1,1,D,9,15,5,7,0,0
+SE1,26/07/2020,Häcken,IFK Göteborg,0,0,D,0,0,D,21,11,9,4,1,0
+SE1,26/07/2020,Falkenberg,Norrköping,3,3,D,2,0,H,15,19,6,7,1,0
+SE1,26/07/2020,AIK,Djurgården,0,1,A,0,0,D,11,15,5,3,0,0
+SE1,27/07/2020,Östersunds FK,Helsingborg,0,0,D,0,0,D,8,15,2,0,0,0
+SE1,27/07/2020,Mjällby,Kalmar,2,2,D,1,0,H,11,13,4,4,0,0
+SE1,03/08/2020,Elfsborg,Sirius,3,3,D,1,3,A,20,22,8,10,0,0
+SE1,03/08/2020,Norrköping,Mjällby,1,1,D,0,0,D,19,17,5,4,0,0
+SE1,02/08/2020,IFK Göteborg,Malmö FF,0,3,A,0,2,A,9,13,2,5,0,0
+SE1,01/08/2020,Djurgården,Häcken,3,1,H,2,1,H,26,9,8,3,0,0
+SE1,02/08/2020,Kalmar,AIK,0,0,D,0,0,D,22,9,5,3,0,0
+SE1,01/08/2020,Örebro,Falkenberg,1,2,A,0,0,D,18,16,7,6,0,0
+SE1,02/08/2020,Helsingborg,Hammarby,1,1,D,1,0,H,6,20,4,6,0,0
+SE1,02/08/2020,Varberg,Östersunds FK,1,1,D,0,0,D,11,11,4,3,0,0
+SE1,05/08/2020,Hammarby,Falkenberg,1,1,D,0,1,A,19,6,4,3,0,0
+SE1,06/08/2020,Häcken,Norrköping,2,1,H,1,0,H,25,8,8,5,0,1
+SE1,06/08/2020,IFK Göteborg,Östersunds FK,2,2,D,1,2,A,17,12,10,7,0,0
+SE1,06/08/2020,Kalmar,Örebro,0,3,A,0,1,A,16,14,3,5,0,0
+SE1,06/08/2020,AIK,Elfsborg,1,2,A,0,2,A,15,14,6,7,0,0
+SE1,05/08/2020,Malmö FF,Helsingborg,4,1,H,2,1,H,19,13,8,5,0,0
+SE1,06/08/2020,Mjällby,Sirius,1,1,D,0,1,A,16,12,6,5,0,0
+SE1,05/08/2020,Varberg,Djurgården,1,2,A,0,2,A,17,18,4,8,0,0
+SE1,10/08/2020,Sirius,Varberg,3,3,D,2,1,H,15,11,9,6,0,0
+SE1,09/08/2020,Häcken,Kalmar,0,2,A,0,1,A,13,11,6,10,0,0
+SE1,09/08/2020,Djurgården,Hammarby,1,2,A,0,2,A,10,11,2,7,0,0
+SE1,09/08/2020,Falkenberg,Malmö FF,0,1,A,0,1,A,11,17,0,3,0,1
+SE1,09/08/2020,Örebro,IFK Göteborg,1,1,D,0,0,D,15,19,7,9,0,0
+SE1,09/08/2020,Östersunds FK,Elfsborg,0,1,A,0,0,D,21,20,4,6,0,1
+SE1,10/08/2020,Helsingborg,Norrköping,3,2,H,2,1,H,12,21,8,8,1,0
+SE1,09/08/2020,Mjällby,AIK,3,1,H,2,1,H,13,10,7,2,0,0
+SE1,13/08/2020,Sirius,Helsingborg,3,1,H,2,0,H,15,14,4,6,0,0
+SE1,13/08/2020,Elfsborg,Falkenberg,4,2,H,4,0,H,21,19,9,6,0,0
+SE1,13/08/2020,Norrköping,Hammarby,1,2,A,0,1,A,16,16,7,8,0,0
+SE1,12/08/2020,Djurgården,Mjällby,2,1,H,0,1,A,10,13,4,5,0,0
+SE1,13/08/2020,Kalmar,IFK Göteborg,1,1,D,1,1,D,15,10,3,4,0,0
+SE1,13/08/2020,AIK,Östersunds FK,0,1,A,0,1,A,13,15,5,4,1,1
+SE1,12/08/2020,Malmö FF,Örebro,2,1,H,1,1,D,24,7,6,5,0,0
+SE1,13/08/2020,Varberg,Häcken,1,3,A,1,2,A,14,16,6,5,0,0
+SE1,16/08/2020,Hammarby,Elfsborg,2,2,D,1,1,D,16,14,7,6,0,1
+SE1,17/08/2020,Häcken,Varberg,2,1,H,1,0,H,22,13,8,8,0,0
+SE1,17/08/2020,IFK Göteborg,Norrköping,1,3,A,0,2,A,14,16,6,8,0,0
+SE1,16/08/2020,Falkenberg,AIK,1,1,D,1,1,D,16,12,7,4,0,0
+SE1,15/08/2020,Örebro,Djurgården,0,3,A,0,1,A,6,22,2,10,0,0
+SE1,17/08/2020,Östersunds FK,Kalmar,2,0,H,1,0,H,7,17,4,5,0,0
+SE1,17/08/2020,Helsingborg,Sirius,1,2,A,1,1,D,10,17,3,7,0,0
+SE1,16/08/2020,Mjällby,Malmö FF,2,2,D,1,0,H,10,20,3,6,0,0
+SE1,22/08/2020,Sirius,Hammarby,3,1,H,0,1,A,17,15,8,6,0,1
+SE1,23/08/2020,Elfsborg,Östersunds FK,0,1,A,0,0,D,14,10,5,5,1,0
+SE1,24/08/2020,Norrköping,Häcken,0,1,A,0,0,D,21,13,8,6,0,0
+SE1,22/08/2020,Djurgården,IFK Göteborg,2,2,D,0,1,A,9,11,4,5,0,0
+SE1,24/08/2020,Kalmar,Mjällby,1,4,A,1,1,D,7,8,3,4,1,0
+SE1,23/08/2020,AIK,Helsingborg,2,0,H,1,0,H,16,12,5,2,0,0
+SE1,23/08/2020,Malmö FF,Falkenberg,2,1,H,1,0,H,22,17,9,6,0,0
+SE1,23/08/2020,Varberg,Örebro,2,1,H,0,1,A,19,8,8,3,0,0
+SE1,30/08/2020,Hammarby,Kalmar,3,3,D,1,2,A,21,10,5,5,0,0
+SE1,30/08/2020,AIK,Häcken,0,1,A,0,0,D,5,7,4,3,0,0
+SE1,30/08/2020,Örebro,Norrköping,4,3,H,2,2,D,13,14,5,5,0,0
+SE1,29/08/2020,Östersunds FK,Falkenberg,2,1,H,2,0,H,12,16,7,5,0,0
+SE1,30/08/2020,Helsingborg,Djurgården,3,1,H,0,0,D,15,16,8,4,0,0
+SE1,30/08/2020,Malmö FF,Elfsborg,1,1,D,1,1,D,24,14,5,7,0,0
+SE1,30/08/2020,Mjällby,IFK Göteborg,1,1,D,0,1,A,6,9,3,3,0,0
+SE1,29/08/2020,Varberg,Sirius,2,0,H,0,0,D,13,13,6,5,0,0
+SE1,29/10/2020,Sirius,AIK,0,0,D,0,0,D,9,11,2,2,0,0
+SE1,17/09/2020,Elfsborg,Mjällby,2,2,D,1,1,D,16,9,5,3,0,0
+SE1,28/10/2020,Häcken,Djurgården,0,2,A,0,1,A,15,11,4,6,0,0
+SE1,10/09/2020,Norrköping,Östersunds FK,2,2,D,1,0,H,14,13,6,7,0,0
+SE1,10/09/2020,IFK Göteborg,Hammarby,0,4,A,0,1,A,6,20,2,6,0,0
+SE1,17/09/2020,Falkenberg,Varberg,2,0,H,1,0,H,13,10,8,2,0,0
+SE1,10/09/2020,Örebro,Malmö FF,3,2,H,2,1,H,11,23,6,13,0,0
+SE1,09/09/2020,Helsingborg,Kalmar,1,1,D,1,0,H,10,20,5,6,0,0
+SE1,13/09/2020,Hammarby,Helsingborg,2,2,D,1,0,H,21,14,9,6,0,0
+SE1,14/09/2020,Häcken,Sirius,1,1,D,0,0,D,12,14,6,8,0,0
+SE1,12/09/2020,Djurgården,Elfsborg,1,1,D,0,1,A,19,15,7,3,0,0
+SE1,14/09/2020,Kalmar,Norrköping,0,2,A,0,2,A,7,17,4,8,0,0
+SE1,13/09/2020,Falkenberg,IFK Göteborg,0,3,A,0,2,A,13,5,5,3,0,0
+SE1,14/09/2020,Östersunds FK,Örebro,0,0,D,0,0,D,9,15,2,3,0,0
+SE1,13/09/2020,Malmö FF,AIK,0,0,D,0,0,D,33,5,9,2,0,2
+SE1,13/09/2020,Mjällby,Varberg,2,3,A,0,2,A,16,11,5,8,0,0
+SE1,21/09/2020,Sirius,Falkenberg,2,1,H,0,0,D,18,12,7,6,0,0
+SE1,21/09/2020,Elfsborg,Häcken,1,1,D,1,0,H,15,27,4,13,0,0
+SE1,20/09/2020,Norrköping,Malmö FF,1,1,D,0,0,D,8,10,5,4,0,0
+SE1,20/09/2020,IFK Göteborg,Kalmar,1,2,A,0,1,A,13,10,5,4,0,0
+SE1,20/09/2020,AIK,Hammarby,3,0,H,2,0,H,15,14,6,4,0,0
+SE1,20/09/2020,Östersunds FK,Djurgården,1,1,D,0,0,D,3,10,2,2,0,0
+SE1,21/09/2020,Mjällby,Örebro,1,0,H,0,0,D,8,15,5,0,0,1
+SE1,21/09/2020,Varberg,Helsingborg,1,3,A,1,2,A,14,12,3,6,0,0
+SE1,27/09/2020,Elfsborg,IFK Göteborg,0,0,D,0,0,D,17,14,4,0,0,0
+SE1,27/09/2020,Djurgården,Norrköping,1,2,A,0,1,A,19,10,4,6,0,0
+SE1,28/09/2020,Kalmar,Varberg,1,1,D,0,0,D,12,12,6,4,0,0
+SE1,27/09/2020,Falkenberg,Hammarby,1,3,A,1,0,H,8,15,2,6,0,0
+SE1,28/09/2020,AIK,Mjällby,1,0,H,0,0,D,22,8,7,4,0,0
+SE1,26/09/2020,Örebro,Sirius,2,1,H,1,0,H,16,25,7,9,0,0
+SE1,27/09/2020,Helsingborg,Östersunds FK,0,1,A,0,0,D,19,11,6,5,0,0
+SE1,27/09/2020,Malmö FF,Häcken,3,0,H,2,0,H,10,7,4,2,0,0
+SE1,04/10/2020,Hammarby,Djurgården,1,1,D,1,0,H,8,13,3,3,0,0
+SE1,03/10/2020,Häcken,Falkenberg,3,0,H,3,0,H,19,11,8,6,0,0
+SE1,04/10/2020,Norrköping,Sirius,1,2,A,1,1,D,14,19,7,10,0,0
+SE1,04/10/2020,IFK Göteborg,Varberg,1,0,H,1,0,H,8,13,3,7,0,0
+SE1,04/10/2020,Kalmar,Malmö FF,0,4,A,0,2,A,5,18,0,9,0,0
+SE1,03/10/2020,Örebro,Elfsborg,3,2,H,2,2,D,12,17,3,4,0,0
+SE1,04/10/2020,Östersunds FK,AIK,1,2,A,0,1,A,12,9,5,4,0,0
+SE1,04/10/2020,Mjällby,Helsingborg,3,2,H,1,1,D,19,24,8,10,0,0
+SE1,18/10/2020,Sirius,Östersunds FK,2,3,A,0,1,A,20,8,7,5,0,0
+SE1,18/10/2020,Hammarby,Mjällby,4,2,H,3,1,H,14,10,8,5,0,0
+SE1,18/10/2020,Elfsborg,Kalmar,3,1,H,2,0,H,13,6,5,3,0,0
+SE1,19/10/2020,Djurgården,Malmö FF,3,2,H,0,1,A,12,18,5,9,0,0
+SE1,17/10/2020,Falkenberg,Örebro,2,1,H,0,0,D,18,12,8,4,0,0
+SE1,18/10/2020,AIK,IFK Göteborg,2,0,H,1,0,H,11,9,6,2,0,0
+SE1,19/10/2020,Helsingborg,Häcken,0,0,D,0,0,D,15,19,3,3,0,0
+SE1,18/10/2020,Varberg,Norrköping,1,3,A,1,2,A,15,16,6,8,0,0
+SE1,24/10/2020,Häcken,Mjällby,2,2,D,0,1,A,35,16,14,5,0,0
+SE1,26/10/2020,Norrköping,AIK,2,2,D,0,1,A,18,14,13,6,0,0
+SE1,24/10/2020,Djurgården,Sirius,4,0,H,0,0,D,19,4,12,2,0,1
+SE1,25/10/2020,Kalmar,Falkenberg,0,0,D,0,0,D,5,10,2,4,0,0
+SE1,25/10/2020,Örebro,Helsingborg,3,2,H,2,1,H,14,12,6,6,0,0
+SE1,25/10/2020,Östersunds FK,Hammarby,1,3,A,0,0,D,15,19,8,5,0,0
+SE1,25/10/2020,Malmö FF,IFK Göteborg,3,1,H,2,1,H,16,8,7,4,0,0
+SE1,26/10/2020,Varberg,Elfsborg,0,0,D,0,0,D,8,17,3,4,0,0
+SE1,01/11/2020,Sirius,Kalmar,2,2,D,2,1,H,13,10,3,5,0,1
+SE1,01/11/2020,Hammarby,Häcken,1,1,D,0,1,A,14,17,6,8,0,0
+SE1,01/11/2020,Elfsborg,Norrköping,2,1,H,1,1,D,25,13,11,3,0,0
+SE1,01/11/2020,IFK Göteborg,Örebro,0,1,A,0,1,A,32,8,13,3,0,0
+SE1,01/11/2020,Falkenberg,Djurgården,3,2,H,1,1,D,10,21,5,9,0,0
+SE1,02/11/2020,AIK,Varberg,1,0,H,0,0,D,7,8,4,2,0,0
+SE1,02/11/2020,Helsingborg,Malmö FF,0,1,A,0,1,A,12,13,3,5,0,0
+SE1,01/11/2020,Mjällby,Östersunds FK,3,0,H,3,0,H,20,11,11,2,0,0
+SE1,07/11/2020,Häcken,Östersunds FK,2,1,H,1,0,H,15,6,6,3,0,0
+SE1,08/11/2020,Djurgården,AIK,0,1,A,0,0,D,4,10,3,6,0,0
+SE1,07/11/2020,Falkenberg,Elfsborg,1,3,A,0,2,A,9,18,3,7,0,0
+SE1,08/11/2020,Örebro,Kalmar,0,1,A,0,1,A,9,7,3,2,0,0
+SE1,08/11/2020,Helsingborg,IFK Göteborg,0,1,A,0,1,A,10,10,2,6,0,0
+SE1,08/11/2020,Malmö FF,Sirius,4,0,H,3,0,H,19,7,9,3,0,0
+SE1,07/11/2020,Mjällby,Norrköping,2,0,H,1,0,H,16,18,6,7,0,0
+SE1,08/11/2020,Varberg,Hammarby,5,2,H,2,1,H,10,9,8,6,0,1
+SE1,23/11/2020,Sirius,Mjällby,0,1,A,0,1,A,20,8,4,3,0,0
+SE1,22/11/2020,Hammarby,Malmö FF,2,2,D,1,2,A,14,15,6,7,0,0
+SE1,22/11/2020,Elfsborg,Helsingborg,2,1,H,0,0,D,26,11,9,6,0,0
+SE1,23/11/2020,Norrköping,Falkenberg,4,1,H,3,1,H,16,12,8,4,0,0
+SE1,23/11/2020,IFK Göteborg,Häcken,1,1,D,1,1,D,12,20,3,5,0,0
+SE1,22/11/2020,Kalmar,Djurgården,0,3,A,0,3,A,17,8,7,4,0,0
+SE1,22/11/2020,AIK,Örebro,0,2,A,0,1,A,16,8,3,6,0,0
+SE1,22/11/2020,Östersunds FK,Varberg,0,4,A,0,2,A,9,8,0,5,0,0
+SE1,29/11/2020,Sirius,Elfsborg,1,1,D,1,0,H,14,15,5,4,0,0
+SE1,30/11/2020,Hammarby,Norrköping,0,1,A,0,1,A,26,14,5,6,0,0
+SE1,29/11/2020,Häcken,Örebro,3,0,H,3,0,H,20,12,7,5,0,0
+SE1,30/11/2020,AIK,Kalmar,0,1,A,0,0,D,15,7,4,3,0,0
+SE1,29/11/2020,Östersunds FK,IFK Göteborg,0,4,A,0,2,A,15,10,4,8,0,0
+SE1,29/11/2020,Helsingborg,Falkenberg,0,0,D,0,0,D,11,14,4,2,0,0
+SE1,29/11/2020,Mjällby,Djurgården,2,1,H,1,0,H,16,29,7,7,0,0
+SE1,29/11/2020,Varberg,Malmö FF,3,2,H,1,0,H,14,18,6,6,0,0
+SE1,06/12/2020,Elfsborg,AIK,2,2,D,2,0,H,13,11,7,5,0,0
+SE1,06/12/2020,Norrköping,Helsingborg,3,4,A,3,4,A,20,18,11,13,0,0
+SE1,06/12/2020,IFK Göteborg,Sirius,2,0,H,1,0,H,12,9,5,2,0,0
+SE1,06/12/2020,Djurgården,Varberg,1,0,H,0,0,D,6,9,3,0,1,1
+SE1,06/12/2020,Kalmar,Häcken,0,0,D,0,0,D,7,13,2,0,0,0
+SE1,06/12/2020,Falkenberg,Mjällby,2,3,A,1,1,D,11,12,5,5,0,0
+SE1,06/12/2020,Örebro,Hammarby,2,1,H,1,0,H,23,10,7,4,0,1
+SE1,06/12/2020,Malmö FF,Östersunds FK,4,0,H,4,0,H,23,7,8,2,0,0
